@@ -930,6 +930,12 @@
           "value": "$global.white",
           "type": "color"
         }
+      },
+      "icon": {
+        "active": {
+          "value": "$global.neutral.neutral60",
+          "type": "color"
+        }
       }
     }
   },
