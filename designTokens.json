@@ -935,6 +935,14 @@
         "active": {
           "value": "$global.neutral.neutral60",
           "type": "color"
+        },
+        "surface-active": {
+          "value": "{global.neutral.neutral10}",
+          "type": "color"
+        },
+        "surface-hover": {
+          "value": "{global.neutral.neutral20}",
+          "type": "color"
         }
       }
     }
