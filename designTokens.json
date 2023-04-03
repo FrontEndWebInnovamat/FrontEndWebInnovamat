@@ -110,7 +110,7 @@
         "value": {
           "fontFamily": "{ManagerFont}",
           "fontWeight": "Regular",
-          "lineHeight": "auto",
+          "lineHeight": "24",
           "fontSize": "16"
         },
         "type": "typography"
@@ -917,7 +917,7 @@
           "type": "color"
         },
         "hover": {
-          "value": "$global.teal.teal60",
+          "value": "$global.neutral.neutral80",
           "type": "color"
         },
         "selected": {
