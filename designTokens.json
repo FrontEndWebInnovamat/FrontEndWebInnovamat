@@ -917,11 +917,11 @@
           "type": "color"
         },
         "hover": {
-          "value": "$global.neutral.neutral80",
+          "value": "$global.teal.teal60",
           "type": "color"
         },
         "selected": {
-          "value": "$global.neutral.neutral80",
+          "value": "$global.teal.teal50",
           "type": "color"
         }
       },
