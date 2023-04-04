@@ -325,7 +325,7 @@
             "fontFamily": "{ManagerFont}",
             "fontWeight": "SemiBold",
             "lineHeight": "auto",
-            "fontSize": "48"
+            "fontSize": "80"
           },
           "type": "typography"
         },
@@ -334,7 +334,7 @@
             "fontFamily": "{ManagerFont}",
             "fontWeight": "SemiBold",
             "lineHeight": "auto",
-            "fontSize": "38"
+            "fontSize": "48"
           },
           "type": "typography"
         },
@@ -343,38 +343,38 @@
             "fontFamily": "{ManagerFont}",
             "fontWeight": "SemiBold",
             "lineHeight": "auto",
+            "fontSize": "38"
+          },
+          "type": "typography"
+        },
+        "Title L": {
+          "value": {
+            "fontFamily": "{ManagerFont}",
+            "fontWeight": "Medium",
+            "lineHeight": "auto",
             "fontSize": "32"
           },
           "type": "typography"
         },
-        "Title": {
+        "Title M": {
           "value": {
             "fontFamily": "{ManagerFont}",
-            "fontWeight": "SemiBold",
+            "fontWeight": "Medium",
             "lineHeight": "auto",
             "fontSize": "26"
           },
           "type": "typography"
         },
-        "Subtitle": {
+        "Title S": {
           "value": {
             "fontFamily": "{ManagerFont}",
             "fontWeight": "Medium",
             "lineHeight": "auto",
-            "fontSize": "22"
+            "fontSize": "20"
           },
           "type": "typography"
         },
-        "Dr DoTitle": {
-          "value": {
-            "fontFamily": "{ManagerFont}",
-            "fontWeight": "Medium",
-            "lineHeight": "auto",
-            "fontSize": "16"
-          },
-          "type": "typography"
-        },
-        "Button": {
+        "Subtitle-Button M": {
           "value": {
             "fontFamily": "{ManagerFont}",
             "fontWeight": "Medium",
@@ -383,7 +383,16 @@
           },
           "type": "typography"
         },
-        "Body": {
+        "Subtitle-Button S": {
+          "value": {
+            "fontFamily": "{ManagerFont}",
+            "fontWeight": "Medium",
+            "lineHeight": "auto",
+            "fontSize": "14"
+          },
+          "type": "typography"
+        },
+        "Body L": {
           "value": {
             "fontFamily": "{ManagerFont}",
             "fontWeight": "Regular",
@@ -392,7 +401,7 @@
           },
           "type": "typography"
         },
-        "JB_Caption": {
+        "Body M": {
           "value": {
             "fontFamily": "{ManagerFont}",
             "fontWeight": "Regular",
@@ -401,10 +410,28 @@
           },
           "type": "typography"
         },
-        "Little_Caption": {
+        "Body S": {
           "value": {
             "fontFamily": "{ManagerFont}",
             "fontWeight": "Regular",
+            "lineHeight": "auto",
+            "fontSize": "12"
+          },
+          "type": "typography"
+        },
+        "Caption-Footer M": {
+          "value": {
+            "fontFamily": "{ManagerFont}",
+            "fontWeight": "Light",
+            "lineHeight": "auto",
+            "fontSize": "14"
+          },
+          "type": "typography"
+        },
+        "Caption-Footer S": {
+          "value": {
+            "fontFamily": "{ManagerFont}",
+            "fontWeight": "Light",
             "lineHeight": "auto",
             "fontSize": "12"
           },
@@ -418,6 +445,24 @@
             "fontSize": "12",
             "textCase": "uppercase",
             "letterSpacing": "24%"
+          },
+          "type": "typography"
+        },
+        "Tooltip M": {
+          "value": {
+            "fontFamily": "{ManagerFont}",
+            "fontWeight": "Medium",
+            "lineHeight": "auto",
+            "fontSize": "10"
+          },
+          "type": "typography"
+        },
+        "Tooltip S": {
+          "value": {
+            "fontFamily": "{ManagerFont}",
+            "fontWeight": "Regular",
+            "lineHeight": "auto",
+            "fontSize": "10"
           },
           "type": "typography"
         }
@@ -776,7 +821,7 @@
           },
           "type": "typography"
         },
-        "Title": {
+        "Title L": {
           "value": {
             "fontFamily": "{ManagerFont}",
             "fontWeight": "Medium",
@@ -785,7 +830,16 @@
           },
           "type": "typography"
         },
-        "Subtitle": {
+        "Title M": {
+          "value": {
+            "fontFamily": "{ManagerFont}",
+            "fontWeight": "Regular",
+            "lineHeight": "auto",
+            "fontSize": "32"
+          },
+          "type": "typography"
+        },
+        "Title S": {
           "value": {
             "fontFamily": "{ManagerFont}",
             "fontWeight": "Regular",
@@ -794,7 +848,7 @@
           },
           "type": "typography"
         },
-        "Dr DoTitle": {
+        "Subtitle-Button M": {
           "value": {
             "fontFamily": "{ManagerFont}",
             "fontWeight": "Medium",
@@ -803,16 +857,16 @@
           },
           "type": "typography"
         },
-        "Button": {
+        "Subtitle-Button S": {
           "value": {
             "fontFamily": "{ManagerFont}",
             "fontWeight": "Medium",
-            "lineHeight": "16",
+            "lineHeight": "auto",
             "fontSize": "14"
           },
           "type": "typography"
         },
-        "Body": {
+        "Body L": {
           "value": {
             "fontFamily": "{ManagerFont}",
             "fontWeight": "Regular",
@@ -821,16 +875,34 @@
           },
           "type": "typography"
         },
-        "JB_Caption": {
+        "Body M": {
           "value": {
             "fontFamily": "{ManagerFont}",
-            "fontWeight": "Medium",
+            "fontWeight": "Regular",
             "lineHeight": "auto",
             "fontSize": "14"
           },
           "type": "typography"
         },
-        "Little_Caption": {
+        "Body S": {
+          "value": {
+            "fontFamily": "{ManagerFont}",
+            "fontWeight": "Regular",
+            "lineHeight": "auto",
+            "fontSize": "12"
+          },
+          "type": "typography"
+        },
+        "Caption-Footer M": {
+          "value": {
+            "fontFamily": "{ManagerFont}",
+            "fontWeight": "Regular",
+            "lineHeight": "auto",
+            "fontSize": "12"
+          },
+          "type": "typography"
+        },
+        "Caption-Footer S": {
           "value": {
             "fontFamily": "{ManagerFont}",
             "fontWeight": "Regular",
@@ -847,6 +919,24 @@
             "fontSize": "12",
             "textCase": "uppercase",
             "letterSpacing": "24%"
+          },
+          "type": "typography"
+        },
+        "Tooltip M": {
+          "value": {
+            "fontFamily": "{ManagerFont}",
+            "fontWeight": "Regular",
+            "lineHeight": "24",
+            "fontSize": "16"
+          },
+          "type": "typography"
+        },
+        "Tooltip S": {
+          "value": {
+            "fontFamily": "{ManagerFont}",
+            "fontWeight": "Regular",
+            "lineHeight": "24",
+            "fontSize": "16"
           },
           "type": "typography"
         }
