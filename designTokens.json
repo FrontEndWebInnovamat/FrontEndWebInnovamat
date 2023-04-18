@@ -925,9 +925,9 @@
         "Tooltip M": {
           "value": {
             "fontFamily": "{ManagerFont}",
-            "fontWeight": "Regular",
+            "fontWeight": "Medium",
             "lineHeight": "24",
-            "fontSize": "16"
+            "fontSize": "10"
           },
           "type": "typography"
         },
@@ -936,7 +936,7 @@
             "fontFamily": "{ManagerFont}",
             "fontWeight": "Regular",
             "lineHeight": "24",
-            "fontSize": "16"
+            "fontSize": "10"
           },
           "type": "typography"
         }
