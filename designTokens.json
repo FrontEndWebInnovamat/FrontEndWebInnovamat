@@ -444,7 +444,7 @@
             "lineHeight": "auto",
             "fontSize": "12",
             "textCase": "uppercase",
-            "letterSpacing": "24%"
+            "letterSpacing": "16%"
           },
           "type": "typography"
         },
@@ -918,7 +918,7 @@
             "lineHeight": "auto",
             "fontSize": "12",
             "textCase": "uppercase",
-            "letterSpacing": "24%"
+            "letterSpacing": "16%"
           },
           "type": "typography"
         },
