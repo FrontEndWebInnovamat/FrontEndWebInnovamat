@@ -1047,6 +1047,12 @@
             "value": "{color.global.neutral.neutral20}",
             "type": "color"
           }
+        },
+        "element": {
+          "divider": {
+            "value": "$color.global.neutral.neutral10",
+            "type": "color"
+          }
         }
       }
     }
