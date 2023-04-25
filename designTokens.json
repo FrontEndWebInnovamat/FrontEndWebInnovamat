@@ -1024,7 +1024,7 @@
             "type": "color"
           },
           "element-selected": {
-            "value": "{color.global.teal.teal50}",
+            "value": "$color.global.neutral.neutral80",
             "type": "color"
           },
           "background-active": {
