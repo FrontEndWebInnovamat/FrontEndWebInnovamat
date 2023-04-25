@@ -1015,16 +1015,28 @@
           }
         },
         "menu-item": {
-          "active": {
+          "element-active": {
             "value": "{color.global.neutral.neutral60}",
             "type": "color"
           },
-          "hover": {
-            "value": "{color.global.neutral.neutral80}",
+          "element-hover": {
+            "value": "{color.global.neutral.neutral60}",
             "type": "color"
           },
-          "selected": {
+          "element-selected": {
             "value": "{color.global.teal.teal50}",
+            "type": "color"
+          },
+          "background-active": {
+            "value": "$color.global.white",
+            "type": "color"
+          },
+          "background-hover": {
+            "value": "$color.global.neutral.neutral10",
+            "type": "color"
+          },
+          "background-selected": {
+            "value": "$color.global.neutral.neutral10",
             "type": "color"
           }
         },
