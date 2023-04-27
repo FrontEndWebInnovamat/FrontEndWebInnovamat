@@ -1027,6 +1027,10 @@
             "value": "$color.global.neutral.neutral80",
             "type": "color"
           },
+          "element-disabled": {
+            "value": "$color.global.neutral.neutral40",
+            "type": "color"
+          },
           "background-active": {
             "value": "$color.global.white",
             "type": "color"
@@ -1037,6 +1041,10 @@
           },
           "background-selected": {
             "value": "$color.global.neutral.neutral10",
+            "type": "color"
+          },
+          "background-disabled": {
+            "value": "$color.global.white",
             "type": "color"
           }
         },
