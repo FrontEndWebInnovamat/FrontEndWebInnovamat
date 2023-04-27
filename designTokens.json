@@ -1010,7 +1010,7 @@
             "type": "color"
           },
           "success": {
-            "value": "{color.global.green.green60}",
+            "value": "{color.global.green.green80}",
             "type": "color"
           }
         },
