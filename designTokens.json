@@ -554,35 +554,35 @@
         },
         "orange": {
           "orange10": {
-            "value": "#FFF4ED",
+            "value": "#FFF2E5",
             "type": "color"
           },
           "orange20": {
-            "value": "#FFEADB",
+            "value": "#FFE5CC",
             "type": "color"
           },
           "orange30": {
-            "value": "#FFD0AF",
+            "value": "#FFCC99",
             "type": "color"
           },
           "orange40": {
-            "value": "#FFB370",
+            "value": "#FFCC99",
             "type": "color"
           },
           "orange50": {
-            "value": "#FF9233",
+            "value": "#FFB266",
             "type": "color"
           },
           "orange60": {
-            "value": "#E97A0C",
+            "value": "#FF9933",
             "type": "color"
           },
           "orange70": {
-            "value": "#B85814",
+            "value": "#FF9933",
             "type": "color"
           },
           "orange80": {
-            "value": "#804000",
+            "value": "#CC6600",
             "type": "color"
           }
         },
@@ -1012,6 +1012,10 @@
           "success": {
             "value": "{color.global.green.green80}",
             "type": "color"
+          },
+          "warning": {
+            "value": "{color.global.orange.orange70}",
+            "type": "color"
           }
         },
         "menu-item": {
@@ -1059,11 +1063,19 @@
             "value": "{color.global.neutral.neutral60}",
             "type": "color"
           },
-          "surface-active": {
+          "disabled": {
+            "value": "{color.context.interaction.primary.dissabled}",
+            "type": "color"
+          },
+          "background-active": {
             "value": "{color.global.neutral.neutral10}",
             "type": "color"
           },
-          "surface-hover": {
+          "background-hover": {
+            "value": "{color.global.neutral.neutral10}",
+            "type": "color"
+          },
+          "background-pressed": {
             "value": "{color.global.neutral.neutral20}",
             "type": "color"
           }
