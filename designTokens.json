@@ -926,7 +926,7 @@
           "value": {
             "fontFamily": "{ManagerFont}",
             "fontWeight": "Medium",
-            "lineHeight": "24",
+            "lineHeight": "auto",
             "fontSize": "10"
           },
           "type": "typography"
