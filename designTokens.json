@@ -1016,6 +1016,10 @@
           "warning": {
             "value": "{color.global.orange.orange70}",
             "type": "color"
+          },
+          "warning-background": {
+            "value": "{color.global.orange.orange10}",
+            "type": "color"
           }
         },
         "menu-item": {
