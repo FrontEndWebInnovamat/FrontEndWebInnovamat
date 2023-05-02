@@ -471,10 +471,6 @@
     "ManagerFont": {
       "value": "Rubik",
       "type": "fontFamilies"
-    },
-    "AA_Test crash": {
-      "value": "#fff",
-      "type": "color"
     }
   },
   "global_old": {
