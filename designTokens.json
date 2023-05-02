@@ -1088,6 +1088,14 @@
           "divider": {
             "value": "$color.global.neutral.neutral10",
             "type": "color"
+          },
+          "tooltip-background": {
+            "value": "$color.global.neutral.neutral60",
+            "type": "color"
+          },
+          "tooltip-text": {
+            "value": "$color.global.white",
+            "type": "color"
           }
         }
       }
