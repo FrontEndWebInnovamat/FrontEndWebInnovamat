@@ -473,7 +473,7 @@
       "type": "fontFamilies"
     },
     "AA_Test crash": {
-      "value": "#f00",
+      "value": "#000",
       "type": "color"
     }
   },
