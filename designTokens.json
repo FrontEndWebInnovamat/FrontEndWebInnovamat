@@ -465,6 +465,28 @@
             "fontSize": "10"
           },
           "type": "typography"
+        },
+        "link": {
+          "link L": {
+            "value": {
+              "fontFamily": "$ManagerFont",
+              "fontWeight": "Regular",
+              "lineHeight": "auto",
+              "fontSize": "16",
+              "textDecoration": "underline"
+            },
+            "type": "typography"
+          },
+          "link M": {
+            "value": {
+              "fontFamily": "$ManagerFont",
+              "fontWeight": "Regular",
+              "lineHeight": "auto",
+              "fontSize": "14",
+              "textDecoration": "underline"
+            },
+            "type": "typography"
+          }
         }
       }
     },
@@ -943,6 +965,28 @@
             "fontSize": "10"
           },
           "type": "typography"
+        },
+        "link": {
+          "link L": {
+            "value": {
+              "fontFamily": "$ManagerFont",
+              "fontWeight": "Regular",
+              "lineHeight": "auto",
+              "fontSize": "16",
+              "textDecoration": "underline"
+            },
+            "type": "typography"
+          },
+          "link M": {
+            "value": {
+              "fontFamily": "$ManagerFont",
+              "fontWeight": "Regular",
+              "lineHeight": "auto",
+              "fontSize": "14",
+              "textDecoration": "underline"
+            },
+            "type": "typography"
+          }
         }
       }
     },
