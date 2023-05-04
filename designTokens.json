@@ -441,7 +441,7 @@
           "value": {
             "fontFamily": "{ManagerFont}",
             "fontWeight": "Medium",
-            "lineHeight": "auto",
+            "lineHeight": "24",
             "fontSize": "12",
             "textCase": "uppercase",
             "letterSpacing": "16%"
@@ -941,7 +941,7 @@
           "value": {
             "fontFamily": "{ManagerFont}",
             "fontWeight": "Medium",
-            "lineHeight": "auto",
+            "lineHeight": "24",
             "fontSize": "12",
             "textCase": "uppercase",
             "letterSpacing": "16%"
