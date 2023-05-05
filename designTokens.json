@@ -323,8 +323,8 @@
         "Heading L": {
           "value": {
             "fontFamily": "{ManagerFont}",
-            "fontWeight": "600",
-            "lineHeight": "95",
+            "fontWeight": "SemiBold",
+            "lineHeight": "auto",
             "fontSize": "80"
           },
           "type": "typography"
@@ -332,8 +332,8 @@
         "Heading M": {
           "value": {
             "fontFamily": "{ManagerFont}",
-            "fontWeight": "600",
-            "lineHeight": "57",
+            "fontWeight": "SemiBold",
+            "lineHeight": "auto",
             "fontSize": "48"
           },
           "type": "typography"
@@ -341,8 +341,8 @@
         "Heading S": {
           "value": {
             "fontFamily": "{ManagerFont}",
-            "fontWeight": "600",
-            "lineHeight": "45",
+            "fontWeight": "SemiBold",
+            "lineHeight": "auto",
             "fontSize": "38"
           },
           "type": "typography"
@@ -350,8 +350,8 @@
         "Title L": {
           "value": {
             "fontFamily": "{ManagerFont}",
-            "fontWeight": "500",
-            "lineHeight": "38",
+            "fontWeight": "Medium",
+            "lineHeight": "auto",
             "fontSize": "32"
           },
           "type": "typography"
@@ -359,8 +359,8 @@
         "Title M": {
           "value": {
             "fontFamily": "{ManagerFont}",
-            "fontWeight": "500",
-            "lineHeight": "31",
+            "fontWeight": "Medium",
+            "lineHeight": "auto",
             "fontSize": "26"
           },
           "type": "typography"
@@ -368,8 +368,8 @@
         "Title S": {
           "value": {
             "fontFamily": "{ManagerFont}",
-            "fontWeight": "500",
-            "lineHeight": "24",
+            "fontWeight": "Medium",
+            "lineHeight": "auto",
             "fontSize": "20"
           },
           "type": "typography"
@@ -377,8 +377,8 @@
         "Subtitle-Button M": {
           "value": {
             "fontFamily": "{ManagerFont}",
-            "fontWeight": "500",
-            "lineHeight": "19",
+            "fontWeight": "Medium",
+            "lineHeight": "auto",
             "fontSize": "16"
           },
           "type": "typography"
@@ -386,8 +386,8 @@
         "Subtitle-Button S": {
           "value": {
             "fontFamily": "{ManagerFont}",
-            "fontWeight": "500",
-            "lineHeight": "16",
+            "fontWeight": "Medium",
+            "lineHeight": "auto",
             "fontSize": "14"
           },
           "type": "typography"
@@ -395,7 +395,7 @@
         "Body L": {
           "value": {
             "fontFamily": "{ManagerFont}",
-            "fontWeight": "400",
+            "fontWeight": "Regular",
             "lineHeight": "24",
             "fontSize": "16"
           },
@@ -404,8 +404,8 @@
         "Body M": {
           "value": {
             "fontFamily": "{ManagerFont}",
-            "fontWeight": "400",
-            "lineHeight": "21",
+            "fontWeight": "Regular",
+            "lineHeight": "auto",
             "fontSize": "14"
           },
           "type": "typography"
@@ -413,8 +413,8 @@
         "Body S": {
           "value": {
             "fontFamily": "{ManagerFont}",
-            "fontWeight": "400",
-            "lineHeight": "16",
+            "fontWeight": "Regular",
+            "lineHeight": "auto",
             "fontSize": "12"
           },
           "type": "typography"
@@ -422,8 +422,8 @@
         "Caption-Footer M": {
           "value": {
             "fontFamily": "{ManagerFont}",
-            "fontWeight": "300",
-            "lineHeight": "21",
+            "fontWeight": "Light",
+            "lineHeight": "auto",
             "fontSize": "14"
           },
           "type": "typography"
@@ -431,8 +431,8 @@
         "Caption-Footer S": {
           "value": {
             "fontFamily": "{ManagerFont}",
-            "fontWeight": "300",
-            "lineHeight": "16",
+            "fontWeight": "Light",
+            "lineHeight": "auto",
             "fontSize": "12"
           },
           "type": "typography"
@@ -440,19 +440,19 @@
         "Super Title": {
           "value": {
             "fontFamily": "{ManagerFont}",
-            "fontWeight": "500",
-            "lineHeight": "14",
+            "fontWeight": "Medium",
+            "lineHeight": "auto",
             "fontSize": "12",
             "textCase": "uppercase",
-            "letterSpacing": "2px"
+            "letterSpacing": "16%"
           },
           "type": "typography"
         },
         "Tooltip M": {
           "value": {
             "fontFamily": "{ManagerFont}",
-            "fontWeight": "400",
-            "lineHeight": "16",
+            "fontWeight": "Regular",
+            "lineHeight": "auto",
             "fontSize": "12"
           },
           "type": "typography"
@@ -460,8 +460,8 @@
         "Tooltip S": {
           "value": {
             "fontFamily": "{ManagerFont}",
-            "fontWeight": "400",
-            "lineHeight": "14",
+            "fontWeight": "Regular",
+            "lineHeight": "auto",
             "fontSize": "10"
           },
           "type": "typography"
@@ -470,8 +470,8 @@
           "link L": {
             "value": {
               "fontFamily": "$ManagerFont",
-              "fontWeight": "400",
-              "lineHeight": "24",
+              "fontWeight": "Regular",
+              "lineHeight": "auto",
               "fontSize": "16",
               "textDecoration": "underline"
             },
@@ -480,8 +480,8 @@
           "link M": {
             "value": {
               "fontFamily": "$ManagerFont",
-              "fontWeight": "400",
-              "lineHeight": "21",
+              "fontWeight": "Regular",
+              "lineHeight": "auto",
               "fontSize": "14",
               "textDecoration": "underline"
             },
@@ -493,6 +493,10 @@
     "ManagerFont": {
       "value": "Rubik",
       "type": "fontFamilies"
+    },
+    "Prueba crash": {
+      "value": "#f00",
+      "type": "color"
     }
   },
   "global_old": {
@@ -874,7 +878,7 @@
           "value": {
             "fontFamily": "{ManagerFont}",
             "fontWeight": "500",
-            "lineHeight": "19",
+            "lineHeight": "24",
             "fontSize": "16"
           },
           "type": "typography"
@@ -883,7 +887,7 @@
           "value": {
             "fontFamily": "{ManagerFont}",
             "fontWeight": "500",
-            "lineHeight": "16",
+            "lineHeight": "21",
             "fontSize": "14"
           },
           "type": "typography"
@@ -918,7 +922,7 @@
         "Caption-Footer M": {
           "value": {
             "fontFamily": "{ManagerFont}",
-            "fontWeight": "400",
+            "fontWeight": "500",
             "lineHeight": "16",
             "fontSize": "12"
           },
@@ -928,7 +932,7 @@
           "value": {
             "fontFamily": "{ManagerFont}",
             "fontWeight": "400",
-            "lineHeight": "14",
+            "lineHeight": "16",
             "fontSize": "12"
           },
           "type": "typography"
