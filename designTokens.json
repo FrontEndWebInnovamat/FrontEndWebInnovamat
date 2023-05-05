@@ -895,7 +895,7 @@
         "Body L": {
           "value": {
             "fontFamily": "{ManagerFont}",
-            "fontWeight": "400",
+            "fontWeight": "Regular",
             "lineHeight": "24",
             "fontSize": "16"
           },
