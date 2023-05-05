@@ -532,7 +532,7 @@
             "type": "color"
           },
           "neutral80": {
-            "value": "#333333",
+            "value": "#000",
             "type": "color"
           }
         },
@@ -895,7 +895,7 @@
         "Body L": {
           "value": {
             "fontFamily": "{ManagerFont}",
-            "fontWeight": "400",
+            "fontWeight": "Regular",
             "lineHeight": "24",
             "fontSize": "16"
           },
