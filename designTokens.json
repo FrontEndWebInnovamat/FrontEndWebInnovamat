@@ -1130,7 +1130,7 @@
         },
         "element": {
           "divider": {
-            "value": "$color.global.neutral.neutral10",
+            "value": "$color.global.neutral.neutral20",
             "type": "color"
           },
           "tooltip-background": {
@@ -1139,6 +1139,20 @@
           },
           "tooltip-text": {
             "value": "$color.global.white",
+            "type": "color"
+          }
+        },
+        "tag": {
+          "tag-text-active": {
+            "value": "$color.global.white",
+            "type": "color"
+          },
+          "tag-text-disabled": {
+            "value": "$color.global.neutral.neutral40",
+            "type": "color"
+          },
+          "tag-background-active": {
+            "value": "$color.global.neutral.neutral50",
             "type": "color"
           }
         }
