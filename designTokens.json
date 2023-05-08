@@ -1159,6 +1159,72 @@
             "value": "$color.global.neutral.neutral10",
             "type": "color"
           }
+        },
+        "guides": {
+          "communication-background": {
+            "value": "$color.global.purple.purple10",
+            "type": "color"
+          },
+          "communication-element": {
+            "value": "$color.global.purple.purple80",
+            "type": "color"
+          },
+          "problem-background": {
+            "value": "$color.global.green.green10",
+            "type": "color"
+          },
+          "problem-element": {
+            "value": "$color.global.green.green80",
+            "type": "color"
+          },
+          "reasoning-background": {
+            "value": "$color.global.blue.blue10",
+            "type": "color"
+          },
+          "reasoning-element": {
+            "value": "$color.global.blue.blue80",
+            "type": "color"
+          },
+          "connections-background": {
+            "value": "$color.global.orange.orange10",
+            "type": "color"
+          },
+          "connections-element": {
+            "value": "$color.global.orange.orange80",
+            "type": "color"
+          },
+          "part1-background": {
+            "value": "$color.global.purple.purple10",
+            "type": "color"
+          },
+          "part1-element": {
+            "value": "$color.global.purple.purple80",
+            "type": "color"
+          },
+          "part2-background": {
+            "value": "$color.global.yellow.yellow10",
+            "type": "color"
+          },
+          "part2-element": {
+            "value": "$color.global.yellow.yellow80",
+            "type": "color"
+          },
+          "part3-background": {
+            "value": "$color.global.blue.blue10",
+            "type": "color"
+          },
+          "part3-element": {
+            "value": "$color.global.blue.blue80",
+            "type": "color"
+          },
+          "part0-background": {
+            "value": "$color.global.teal.teal10",
+            "type": "color"
+          },
+          "part0-element": {
+            "value": "$color.global.teal.teal80",
+            "type": "color"
+          }
         }
       }
     }
