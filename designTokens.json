@@ -1154,6 +1154,10 @@
           "tag-background-active": {
             "value": "$color.global.neutral.neutral50",
             "type": "color"
+          },
+          "tag-background-disabled": {
+            "value": "$color.global.neutral.neutral10",
+            "type": "color"
           }
         }
       }
