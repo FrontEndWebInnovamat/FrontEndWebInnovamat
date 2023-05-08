@@ -1023,7 +1023,7 @@
               "type": "color"
             },
             "dissabled": {
-              "value": "{color.global.neutral.neutral40}",
+              "value": "{color.global.neutral.neutral10}",
               "type": "color"
             }
           },
@@ -1033,7 +1033,7 @@
               "type": "color"
             },
             "dissabled": {
-              "value": "{color.global.neutral.neutral30}",
+              "value": "{color.global.neutral.neutral40}",
               "type": "color"
             }
           }
