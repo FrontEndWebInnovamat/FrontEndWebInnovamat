@@ -736,7 +736,7 @@
             "type": "color"
           },
           "purple70": {
-            "value": "#AD52A6",
+            "value": "#8B4185",
             "type": "color"
           },
           "purple80": {
@@ -1166,7 +1166,7 @@
             "type": "color"
           },
           "communication-element": {
-            "value": "$color.global.purple.purple80",
+            "value": "$color.global.purple.purple70",
             "type": "color"
           },
           "problem-background": {
@@ -1198,7 +1198,7 @@
             "type": "color"
           },
           "part1-element": {
-            "value": "$color.global.purple.purple80",
+            "value": "$color.global.purple.purple70",
             "type": "color"
           },
           "part2-background": {
@@ -1206,7 +1206,7 @@
             "type": "color"
           },
           "part2-element": {
-            "value": "$color.global.yellow.yellow80",
+            "value": "$color.global.yellow.yellow70",
             "type": "color"
           },
           "part3-background": {
