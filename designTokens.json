@@ -1116,7 +1116,7 @@
             "type": "color"
           },
           "background-active": {
-            "value": "{color.global.neutral.neutral10}",
+            "value": "rgba(255, 255, 255, 0)",
             "type": "color"
           },
           "background-hover": {
