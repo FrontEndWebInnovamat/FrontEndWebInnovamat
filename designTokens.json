@@ -566,7 +566,7 @@
             "type": "color"
           },
           "red70": {
-            "value": "#FF5233",
+            "value": "#CC1F00",
             "type": "color"
           },
           "red80": {
@@ -600,7 +600,7 @@
             "type": "color"
           },
           "orange70": {
-            "value": "#FF9933",
+            "value": "#CC6600",
             "type": "color"
           },
           "orange80": {
@@ -610,35 +610,35 @@
         },
         "yellow": {
           "yellow10": {
-            "value": "#FFFAE5",
+            "value": "#FFF8E5",
             "type": "color"
           },
           "yellow20": {
-            "value": "#FFF5CC",
+            "value": "#FFEFCC",
             "type": "color"
           },
           "yellow30": {
-            "value": "#FFE88C",
+            "value": "#FFE099",
             "type": "color"
           },
           "yellow40": {
-            "value": "#FFDB4D",
+            "value": "#FFE099",
             "type": "color"
           },
           "yellow50": {
-            "value": "#FFCC00",
+            "value": "#FFD066",
             "type": "color"
           },
           "yellow60": {
-            "value": "#E5B800",
+            "value": "#FFC033",
             "type": "color"
           },
           "yellow70": {
-            "value": "#C7A005",
+            "value": "#CC8D00",
             "type": "color"
           },
           "yellow80": {
-            "value": "#997A00",
+            "value": "#CC8D00",
             "type": "color"
           }
         },
@@ -668,7 +668,7 @@
             "type": "color"
           },
           "green70": {
-            "value": "#84D65C",
+            "value": "#51A329",
             "type": "color"
           },
           "green80": {
@@ -1054,11 +1054,11 @@
             "type": "color"
           },
           "success": {
-            "value": "{color.global.green.green80}",
+            "value": "{color.global.green.green70}",
             "type": "color"
           },
           "warning": {
-            "value": "{color.global.orange.orange70}",
+            "value": "{color.global.orange.orange60}",
             "type": "color"
           },
           "warning-background": {
