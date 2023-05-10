@@ -440,7 +440,7 @@
         "Super Title": {
           "value": {
             "fontFamily": "{ManagerFont}",
-            "fontWeight": "500",
+            "fontWeight": "600",
             "lineHeight": "14",
             "fontSize": "12",
             "textCase": "uppercase",
@@ -1120,7 +1120,7 @@
             "type": "color"
           },
           "disabled": {
-            "value": "{color.context.interaction.primary.dissabled}",
+            "value": "$color.global.neutral.neutral30",
             "type": "color"
           },
           "background-active": {
