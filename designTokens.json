@@ -341,18 +341,18 @@
         "Heading S": {
           "value": {
             "fontFamily": "{ManagerFont}",
-            "fontWeight": "400",
+            "fontWeight": "500",
             "lineHeight": "38",
-            "fontSize": "32"
+            "fontSize": "24"
           },
           "type": "typography"
         },
         "Title L": {
           "value": {
             "fontFamily": "{ManagerFont}",
-            "fontWeight": "500",
+            "fontWeight": "400",
             "lineHeight": "28",
-            "fontSize": "24"
+            "fontSize": "32"
           },
           "type": "typography"
         },
@@ -361,7 +361,7 @@
             "fontFamily": "{ManagerFont}",
             "fontWeight": "400",
             "lineHeight": "38",
-            "fontSize": "32"
+            "fontSize": "24"
           },
           "type": "typography"
         },
