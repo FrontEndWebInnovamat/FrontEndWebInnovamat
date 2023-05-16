@@ -996,7 +996,7 @@
       "context": {
         "interaction": {
           "cta": {
-            "active": {
+            "default": {
               "value": "{color.global.teal.teal50}",
               "type": "color"
             },
@@ -1010,7 +1010,7 @@
             }
           },
           "primary": {
-            "active": {
+            "default": {
               "value": "{color.global.neutral.neutral80}",
               "type": "color"
             },
@@ -1028,7 +1028,7 @@
             }
           },
           "complementary": {
-            "active": {
+            "default": {
               "value": "{color.global.white}",
               "type": "color"
             },
@@ -1039,11 +1039,11 @@
           }
         },
         "text": {
-          "primary": {
+          "text-primary": {
             "value": "{color.global.neutral.neutral80}",
             "type": "color"
           },
-          "secondary": {
+          "text-secondary": {
             "value": "{color.global.neutral.neutral60}",
             "type": "color"
           }
@@ -1075,7 +1075,7 @@
           }
         },
         "menu-item": {
-          "element-active": {
+          "element-default": {
             "value": "{color.global.neutral.neutral60}",
             "type": "color"
           },
@@ -1091,7 +1091,7 @@
             "value": "$color.global.neutral.neutral40",
             "type": "color"
           },
-          "background-active": {
+          "background-default": {
             "value": "$color.global.white",
             "type": "color"
           },
@@ -1119,7 +1119,7 @@
           }
         },
         "icon": {
-          "active": {
+          "default": {
             "value": "{color.global.neutral.neutral60}",
             "type": "color"
           },
@@ -1127,7 +1127,7 @@
             "value": "$color.global.neutral.neutral30",
             "type": "color"
           },
-          "background-active": {
+          "background-default": {
             "value": "rgba(255, 255, 255, 0)",
             "type": "color"
           },
@@ -1155,7 +1155,7 @@
           }
         },
         "tag": {
-          "tag-text-active": {
+          "tag-text-default": {
             "value": "$color.global.white",
             "type": "color"
           },
@@ -1163,7 +1163,7 @@
             "value": "$color.global.neutral.neutral40",
             "type": "color"
           },
-          "tag-background-active": {
+          "tag-background-default": {
             "value": "$color.global.neutral.neutral50",
             "type": "color"
           },
