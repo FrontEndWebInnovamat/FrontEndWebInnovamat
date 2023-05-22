@@ -1252,7 +1252,7 @@
             "type": "color"
           },
           "state-press-lighter": {
-            "value": "rgba(255,255,255,50%)",
+            "value": "rgba(255,255,255,30%)",
             "type": "color"
           }
         }
