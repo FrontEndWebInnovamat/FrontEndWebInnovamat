@@ -1092,7 +1092,7 @@
             "type": "color"
           },
           "background-default": {
-            "value": "$color.global.white",
+            "value": "rgba(255, 255, 255, 0)",
             "type": "color"
           },
           "background-hover": {
@@ -1235,6 +1235,24 @@
           },
           "part0-element": {
             "value": "$color.global.teal.teal70",
+            "type": "color"
+          }
+        },
+        "state-layer": {
+          "state-hover-darker": {
+            "value": "rgba(0,0,0,8%)",
+            "type": "color"
+          },
+          "state-press-darker": {
+            "value": "rgba(0,0,0,25%)",
+            "type": "color"
+          },
+          "state-hover-lighter": {
+            "value": "rgba(255,255,255,20%)",
+            "type": "color"
+          },
+          "state-press-lighter": {
+            "value": "rgba(255,255,255,50%)",
             "type": "color"
           }
         }
