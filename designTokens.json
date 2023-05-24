@@ -1160,6 +1160,10 @@
           "tooltip-text": {
             "value": "$color.global.white",
             "type": "color"
+          },
+          "link": {
+            "value": "$color.global.teal.teal50",
+            "type": "color"
           }
         },
         "tag": {
