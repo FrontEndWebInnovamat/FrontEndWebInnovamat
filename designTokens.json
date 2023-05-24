@@ -1022,7 +1022,7 @@
               "value": "{color.global.neutral.neutral60}",
               "type": "color"
             },
-            "dissabled": {
+            "disabled": {
               "value": "{color.global.neutral.neutral10}",
               "type": "color"
             }
