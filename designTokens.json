@@ -486,6 +486,16 @@
               "textDecoration": "underline"
             },
             "type": "typography"
+          },
+          "link S": {
+            "value": {
+              "fontFamily": "$ManagerFont",
+              "fontWeight": "400",
+              "textDecoration": "underline",
+              "fontSize": "12",
+              "lineHeight": "16"
+            },
+            "type": "typography"
           }
         }
       }
@@ -980,6 +990,16 @@
               "lineHeight": "21",
               "fontSize": "14",
               "textDecoration": "underline"
+            },
+            "type": "typography"
+          },
+          "link S": {
+            "value": {
+              "fontFamily": "$ManagerFont",
+              "fontWeight": "400",
+              "textDecoration": "underline",
+              "lineHeight": "16",
+              "fontSize": "12"
             },
             "type": "typography"
           }
