@@ -466,37 +466,35 @@
           },
           "type": "typography"
         },
-        "link": {
-          "link L": {
-            "value": {
-              "fontFamily": "$ManagerFont",
-              "fontWeight": "400",
-              "lineHeight": "24",
-              "fontSize": "16",
-              "textDecoration": "underline"
-            },
-            "type": "typography"
+        "link L": {
+          "value": {
+            "fontFamily": "$ManagerFont",
+            "fontWeight": "400",
+            "lineHeight": "24",
+            "fontSize": "16",
+            "textDecoration": "underline"
           },
-          "link M": {
-            "value": {
-              "fontFamily": "$ManagerFont",
-              "fontWeight": "400",
-              "lineHeight": "21",
-              "fontSize": "14",
-              "textDecoration": "underline"
-            },
-            "type": "typography"
+          "type": "typography"
+        },
+        "link M": {
+          "value": {
+            "fontFamily": "$ManagerFont",
+            "fontWeight": "400",
+            "lineHeight": "21",
+            "fontSize": "14",
+            "textDecoration": "underline"
           },
-          "link S": {
-            "value": {
-              "fontFamily": "$ManagerFont",
-              "fontWeight": "400",
-              "textDecoration": "underline",
-              "fontSize": "12",
-              "lineHeight": "16"
-            },
-            "type": "typography"
-          }
+          "type": "typography"
+        },
+        "link S": {
+          "value": {
+            "fontFamily": "$ManagerFont",
+            "fontWeight": "400",
+            "textDecoration": "underline",
+            "fontSize": "12",
+            "lineHeight": "16"
+          },
+          "type": "typography"
         }
       }
     },
@@ -972,37 +970,35 @@
           },
           "type": "typography"
         },
-        "link": {
-          "link L": {
-            "value": {
-              "fontFamily": "$ManagerFont",
-              "fontWeight": "400",
-              "lineHeight": "24",
-              "fontSize": "16",
-              "textDecoration": "underline"
-            },
-            "type": "typography"
+        "link L": {
+          "value": {
+            "fontFamily": "$ManagerFont",
+            "fontWeight": "400",
+            "lineHeight": "24",
+            "fontSize": "16",
+            "textDecoration": "underline"
           },
-          "link M": {
-            "value": {
-              "fontFamily": "$ManagerFont",
-              "fontWeight": "400",
-              "lineHeight": "21",
-              "fontSize": "14",
-              "textDecoration": "underline"
-            },
-            "type": "typography"
+          "type": "typography"
+        },
+        "link M": {
+          "value": {
+            "fontFamily": "$ManagerFont",
+            "fontWeight": "400",
+            "lineHeight": "21",
+            "fontSize": "14",
+            "textDecoration": "underline"
           },
-          "link S": {
-            "value": {
-              "fontFamily": "$ManagerFont",
-              "fontWeight": "400",
-              "textDecoration": "underline",
-              "lineHeight": "16",
-              "fontSize": "12"
-            },
-            "type": "typography"
-          }
+          "type": "typography"
+        },
+        "link S": {
+          "value": {
+            "fontFamily": "$ManagerFont",
+            "fontWeight": "400",
+            "textDecoration": "underline",
+            "lineHeight": "16",
+            "fontSize": "12"
+          },
+          "type": "typography"
         }
       }
     },
