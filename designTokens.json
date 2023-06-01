@@ -1048,7 +1048,7 @@
               "value": "{color.global.white}",
               "type": "color"
             },
-            "dissabled": {
+            "disabled": {
               "value": "{color.global.neutral.neutral40}",
               "type": "color"
             }
