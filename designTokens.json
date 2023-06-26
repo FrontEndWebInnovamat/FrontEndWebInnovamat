@@ -1328,7 +1328,7 @@
             "type": "color"
           },
           "track-disabled": {
-            "value": "{color.global.neutral.neutral50}",
+            "value": "{color.global.neutral.neutral30}",
             "type": "color"
           },
           "track-selected": {
@@ -1344,7 +1344,7 @@
             "type": "color"
           },
           "handle-disabled": {
-            "value": "{color.global.white}",
+            "value": "{color.global.neutral.neutral40}",
             "type": "color"
           },
           "handle-selected": {
