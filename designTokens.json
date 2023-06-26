@@ -1312,11 +1312,11 @@
             "type": "color"
           },
           "track-selected": {
-            "value": "{color.global.green.green70}",
+            "value": "{color.global.teal.teal50}",
             "type": "color"
           },
           "handle-default": {
-            "value": "{color.global.white}",
+            "value": "{color.global.neutral.neutral50}",
             "type": "color"
           },
           "handle-disabled": {
