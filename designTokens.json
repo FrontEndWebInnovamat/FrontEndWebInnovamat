@@ -1332,11 +1332,7 @@
             "type": "color"
           },
           "track-selected": {
-            "value": "{color.global.neutral.neutral80}",
-            "type": "color"
-          },
-          "track-semantic": {
-            "value": "{color.context.semantic.success}",
+            "value": "{color.global.green.green70}",
             "type": "color"
           },
           "handle-default": {
@@ -1348,10 +1344,6 @@
             "type": "color"
           },
           "handle-selected": {
-            "value": "{color.global.white}",
-            "type": "color"
-          },
-          "handle-semantic": {
             "value": "{color.global.white}",
             "type": "color"
           }
