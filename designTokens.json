@@ -1321,6 +1321,40 @@
             "value": "rgba(255,255,255,30%)",
             "type": "color"
           }
+        },
+        "toggle": {
+          "track-default": {
+            "value": "{color.global.neutral.neutral50}",
+            "type": "color"
+          },
+          "track-disabled": {
+            "value": "{color.global.neutral.neutral50}",
+            "type": "color"
+          },
+          "track-selected": {
+            "value": "{color.global.neutral.neutral80}",
+            "type": "color"
+          },
+          "track-semantic": {
+            "value": "{color.context.semantic.success}",
+            "type": "color"
+          },
+          "handle-default": {
+            "value": "{color.global.white}",
+            "type": "color"
+          },
+          "handle-disabled": {
+            "value": "{color.global.white}",
+            "type": "color"
+          },
+          "handle-selected": {
+            "value": "{color.global.white}",
+            "type": "color"
+          },
+          "handle-semantic": {
+            "value": "{color.global.white}",
+            "type": "color"
+          }
         }
       }
     },
