@@ -1327,6 +1327,54 @@
             "value": "{color.global.white}",
             "type": "color"
           }
+        },
+        "checkbox": {
+          "default": {
+            "border-default": {
+              "value": "{color.global.neutral.neutral80}",
+              "type": "color"
+            },
+            "border-disabled": {
+              "value": "{color.global.neutral.neutral40}",
+              "type": "color"
+            }
+          },
+          "selected": {
+            "background-default": {
+              "value": "{color.global.neutral.neutral80}",
+              "type": "color"
+            },
+            "background-disabled": {
+              "value": "{color.global.neutral.neutral10}",
+              "type": "color"
+            },
+            "check-default": {
+              "value": "{color.global.white}",
+              "type": "color"
+            },
+            "check-disabled": {
+              "value": "{color.global.neutral.neutral40}",
+              "type": "color"
+            }
+          },
+          "solutions": {
+            "background-default": {
+              "value": "{color.global.teal.teal50}",
+              "type": "color"
+            },
+            "background-disabled": {
+              "value": "{color.global.neutral.neutral10}",
+              "type": "color"
+            },
+            "check-default": {
+              "value": "{color.global.white}",
+              "type": "color"
+            },
+            "check-disabled": {
+              "value": "{color.global.neutral.neutral40}",
+              "type": "color"
+            }
+          }
         }
       }
     },
