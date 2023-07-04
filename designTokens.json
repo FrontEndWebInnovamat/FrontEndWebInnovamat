@@ -324,17 +324,17 @@
           "value": {
             "fontFamily": "{ManagerFont}",
             "fontWeight": "600",
-            "lineHeight": "56",
-            "fontSize": "48"
+            "fontSize": "3rem",
+            "lineHeight": "3.5rem"
           },
           "type": "typography"
         },
         "Heading M": {
           "value": {
             "fontFamily": "{ManagerFont}",
-            "fontWeight": "400",
-            "lineHeight": "38",
-            "fontSize": "32"
+            "lineHeight": "2.375rem",
+            "fontSize": "2rem",
+            "fontWeight": "500"
           },
           "type": "typography"
         },
@@ -342,8 +342,8 @@
           "value": {
             "fontFamily": "{ManagerFont}",
             "fontWeight": "500",
-            "lineHeight": "28",
-            "fontSize": "24"
+            "lineHeight": "1.75rem",
+            "fontSize": "1.5rem"
           },
           "type": "typography"
         },
@@ -351,8 +351,8 @@
           "value": {
             "fontFamily": "{ManagerFont}",
             "fontWeight": "400",
-            "lineHeight": "28",
-            "fontSize": "38"
+            "lineHeight": "1.75rem",
+            "fontSize": "2.375rem"
           },
           "type": "typography"
         },
@@ -360,8 +360,8 @@
           "value": {
             "fontFamily": "{ManagerFont}",
             "fontWeight": "400",
-            "lineHeight": "28",
-            "fontSize": "24"
+            "fontSize": "1.5rem",
+            "lineHeight": "1.75rem"
           },
           "type": "typography"
         },
@@ -369,8 +369,8 @@
           "value": {
             "fontFamily": "{ManagerFont}",
             "fontWeight": "400",
-            "lineHeight": "23",
-            "fontSize": "20"
+            "fontSize": "1.25rem",
+            "lineHeight": "1.4375rem"
           },
           "type": "typography"
         },
@@ -378,8 +378,8 @@
           "value": {
             "fontFamily": "{ManagerFont}",
             "fontWeight": "500",
-            "lineHeight": "19",
-            "fontSize": "16"
+            "fontSize": "1rem",
+            "lineHeight": "1.1875rem"
           },
           "type": "typography"
         },
@@ -387,8 +387,8 @@
           "value": {
             "fontFamily": "{ManagerFont}",
             "fontWeight": "500",
-            "lineHeight": "16",
-            "fontSize": "14"
+            "lineHeight": "1rem",
+            "fontSize": "0.875rem"
           },
           "type": "typography"
         },
@@ -396,8 +396,8 @@
           "value": {
             "fontFamily": "{ManagerFont}",
             "fontWeight": "400",
-            "lineHeight": "24",
-            "fontSize": "16"
+            "lineHeight": "1.5rem",
+            "fontSize": "1rem"
           },
           "type": "typography"
         },
@@ -405,8 +405,8 @@
           "value": {
             "fontFamily": "{ManagerFont}",
             "fontWeight": "400",
-            "lineHeight": "21",
-            "fontSize": "14"
+            "fontSize": "0.875rem",
+            "lineHeight": "1.3125rem"
           },
           "type": "typography"
         },
@@ -414,8 +414,8 @@
           "value": {
             "fontFamily": "{ManagerFont}",
             "fontWeight": "400",
-            "lineHeight": "16",
-            "fontSize": "12"
+            "lineHeight": "1rem",
+            "fontSize": "0.75rem"
           },
           "type": "typography"
         },
@@ -423,8 +423,8 @@
           "value": {
             "fontFamily": "{ManagerFont}",
             "fontWeight": "400",
-            "lineHeight": "16",
-            "fontSize": "12"
+            "fontSize": "0.75rem",
+            "lineHeight": "1rem"
           },
           "type": "typography"
         },
@@ -432,8 +432,8 @@
           "value": {
             "fontFamily": "{ManagerFont}",
             "fontWeight": "400",
-            "lineHeight": "14",
-            "fontSize": "12"
+            "fontSize": "0.75rem",
+            "lineHeight": "0.875rem"
           },
           "type": "typography"
         },
@@ -441,10 +441,10 @@
           "value": {
             "fontFamily": "{ManagerFont}",
             "fontWeight": "500",
-            "lineHeight": "14",
-            "fontSize": "12",
             "textCase": "uppercase",
-            "letterSpacing": "1.5px"
+            "letterSpacing": "1.5px",
+            "lineHeight": "0.875rem",
+            "fontSize": "0.75rem"
           },
           "type": "typography"
         },
@@ -452,8 +452,8 @@
           "value": {
             "fontFamily": "{ManagerFont}",
             "fontWeight": "400",
-            "lineHeight": "16",
-            "fontSize": "12"
+            "lineHeight": "1rem",
+            "fontSize": "0.75rem"
           },
           "type": "typography"
         },
@@ -461,8 +461,8 @@
           "value": {
             "fontFamily": "{ManagerFont}",
             "fontWeight": "400",
-            "lineHeight": "14",
-            "fontSize": "10"
+            "lineHeight": "0.875rem",
+            "fontSize": "0.625rem"
           },
           "type": "typography"
         },
@@ -470,9 +470,9 @@
           "value": {
             "fontFamily": "$ManagerFont",
             "fontWeight": "400",
-            "lineHeight": "24",
-            "fontSize": "16",
-            "textDecoration": "underline"
+            "fontSize": "1rem",
+            "textDecoration": "underline",
+            "lineHeight": "1.5rem"
           },
           "type": "typography"
         },
@@ -480,9 +480,9 @@
           "value": {
             "fontFamily": "$ManagerFont",
             "fontWeight": "400",
-            "lineHeight": "21",
-            "fontSize": "14",
-            "textDecoration": "underline"
+            "textDecoration": "underline",
+            "lineHeight": "1.3125rem",
+            "fontSize": "0.875rem"
           },
           "type": "typography"
         },
@@ -491,8 +491,8 @@
             "fontFamily": "$ManagerFont",
             "fontWeight": "400",
             "textDecoration": "underline",
-            "fontSize": "12",
-            "lineHeight": "16"
+            "lineHeight": "1rem",
+            "fontSize": "0.75rem"
           },
           "type": "typography"
         }
