@@ -1303,35 +1303,47 @@
           }
         },
         "toggle": {
-          "track-default": {
-            "value": "{color.global.neutral.neutral50}",
-            "type": "color"
+          "off": {
+            "border-default": {
+              "value": "{color.global.neutral.neutral50}",
+              "type": "color"
+            },
+            "handle-default": {
+              "value": "{color.global.neutral.neutral50}",
+              "type": "color"
+            },
+            "background-disabled": {
+              "value": "{color.global.neutral.neutral30}",
+              "type": "color"
+            },
+            "handle-disabled": {
+              "value": "{color.global.neutral.neutral40}",
+              "type": "color"
+            }
           },
-          "track-disabled": {
-            "value": "{color.global.neutral.neutral30}",
-            "type": "color"
-          },
-          "track-selected": {
-            "value": "{color.global.teal.teal50}",
-            "type": "color"
-          },
-          "handle-default": {
-            "value": "{color.global.neutral.neutral50}",
-            "type": "color"
-          },
-          "handle-disabled": {
-            "value": "{color.global.neutral.neutral40}",
-            "type": "color"
-          },
-          "handle-selected": {
-            "value": "{color.global.white}",
-            "type": "color"
+          "on": {
+            "background-selected": {
+              "value": "{color.global.teal.teal50}",
+              "type": "color"
+            },
+            "handle-default": {
+              "value": "{color.global.white}",
+              "type": "color"
+            },
+            "background-disabled": {
+              "value": "{color.global.neutral.neutral30}",
+              "type": "color"
+            },
+            "handle-disabled": {
+              "value": "{color.global.neutral.neutral40}",
+              "type": "color"
+            }
           }
         },
         "checkbox": {
-          "default": {
+          "enabled": {
             "border-default": {
-              "value": "{color.global.neutral.neutral80}",
+              "value": "{color.global.neutral.neutral60}",
               "type": "color"
             },
             "border-disabled": {
