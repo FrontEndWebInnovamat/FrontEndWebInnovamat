@@ -352,7 +352,7 @@
             "fontFamily": "{ManagerFont}",
             "fontWeight": "400",
             "lineHeight": "1.75rem",
-            "fontSize": "2.375rem"
+            "fontSize": "2rem"
           },
           "type": "typography"
         },
