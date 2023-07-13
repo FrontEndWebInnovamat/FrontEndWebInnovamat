@@ -1387,6 +1387,18 @@
               "type": "color"
             }
           }
+        },
+        "reports": {
+          "tables": {
+            "divider-primary": {
+              "value": "{color.global.neutral.neutral80}",
+              "type": "color"
+            },
+            "divider-secondary": {
+              "value": "{color.global.neutral.neutral20}",
+              "type": "color"
+            }
+          }
         }
       }
     },
