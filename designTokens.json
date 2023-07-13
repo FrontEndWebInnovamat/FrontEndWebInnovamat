@@ -1398,6 +1398,28 @@
               "value": "{color.global.neutral.neutral20}",
               "type": "color"
             }
+          },
+          "semantic": {
+            "no-data": {
+              "value": "{color.global.neutral.neutral40}",
+              "type": "color"
+            },
+            "low": {
+              "value": "{color.global.red.red60}",
+              "type": "color"
+            },
+            "medium": {
+              "value": "{color.global.orange.orange60}",
+              "type": "color"
+            },
+            "high": {
+              "value": "{color.global.green.green60}",
+              "type": "color"
+            },
+            "super-high": {
+              "value": "{color.global.green.green70}",
+              "type": "color"
+            }
           }
         }
       }
