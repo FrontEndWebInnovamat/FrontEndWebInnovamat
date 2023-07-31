@@ -1434,6 +1434,10 @@
           "element-disabled": {
             "value": "{color.global.neutral.neutral40}",
             "type": "color"
+          },
+          "background-autofilled": {
+            "value": "{color.global.neutral.neutral10}",
+            "type": "color"
           }
         }
       }
