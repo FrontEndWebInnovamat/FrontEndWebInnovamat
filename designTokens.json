@@ -1427,7 +1427,7 @@
             "value": "{color.global.neutral.neutral60}",
             "type": "color"
           },
-          "stroke-focus": {
+          "stroke-hover": {
             "value": "{color.global.neutral.neutral80}",
             "type": "color"
           },
