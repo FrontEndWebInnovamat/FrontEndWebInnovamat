@@ -1188,7 +1188,7 @@
             "type": "color"
           },
           "tooltip-background": {
-            "value": "$color.global.neutral.neutral60",
+            "value": "{color.global.neutral.neutral70}",
             "type": "color"
           },
           "tooltip-text": {
