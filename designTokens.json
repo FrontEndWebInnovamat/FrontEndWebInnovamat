@@ -1439,6 +1439,20 @@
             "value": "{color.global.neutral.neutral10}",
             "type": "color"
           }
+        },
+        "stage": {
+          "early-years": {
+            "value": "{color.global.purple.purple60}",
+            "type": "color"
+          },
+          "primary": {
+            "value": "{color.global.yellow.yellow60}",
+            "type": "color"
+          },
+          "secondary": {
+            "value": "{color.global.blue.blue60}",
+            "type": "color"
+          }
         }
       }
     },
