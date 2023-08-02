@@ -370,7 +370,7 @@
             "fontFamily": "{ManagerFont}",
             "fontWeight": "400",
             "fontSize": "1.25rem",
-            "lineHeight": "1.4375rem"
+            "lineHeight": "1.75rem"
           },
           "type": "typography"
         },
