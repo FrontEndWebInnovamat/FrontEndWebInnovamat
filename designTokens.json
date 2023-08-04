@@ -1282,6 +1282,10 @@
           "part0-element": {
             "value": "$color.global.teal.teal70",
             "type": "color"
+          },
+          "images-hover": {
+            "value": "rgba(0,0,0,0.2)",
+            "type": "color"
           }
         },
         "state-layer": {
