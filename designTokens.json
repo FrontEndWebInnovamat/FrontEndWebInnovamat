@@ -1198,6 +1198,10 @@
           "link": {
             "value": "$color.global.teal.teal50",
             "type": "color"
+          },
+          "overlay": {
+            "value": "rgba(51,51,51,0.7)",
+            "type": "color"
           }
         },
         "tag": {
@@ -1255,12 +1259,20 @@
             "value": "$color.global.purple.purple10",
             "type": "color"
           },
+          "part1-medium": {
+            "value": "$color.global.purple.purple30",
+            "type": "color"
+          },
           "part1-element": {
             "value": "$color.global.purple.purple70",
             "type": "color"
           },
           "part2-background": {
             "value": "$color.global.yellow.yellow10",
+            "type": "color"
+          },
+          "part2-medium": {
+            "value": "$color.global.yellow.yellow30",
             "type": "color"
           },
           "part2-element": {
@@ -1271,12 +1283,20 @@
             "value": "$color.global.blue.blue10",
             "type": "color"
           },
+          "part3-medium": {
+            "value": "$color.global.blue.blue30",
+            "type": "color"
+          },
           "part3-element": {
             "value": "$color.global.blue.blue70",
             "type": "color"
           },
           "part0-background": {
             "value": "$color.global.teal.teal10",
+            "type": "color"
+          },
+          "part0-medium": {
+            "value": "$color.global.teal.teal30",
             "type": "color"
           },
           "part0-element": {
