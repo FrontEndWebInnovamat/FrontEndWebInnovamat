@@ -1202,6 +1202,14 @@
           "overlay": {
             "value": "rgba(51,51,51,0.7)",
             "type": "color"
+          },
+          "thumnail-locked": {
+            "value": "rgba(51,51,51,0.25)",
+            "type": "color"
+          },
+          "thumbnail-tag": {
+            "value": "rgba(51,51,51,0.7)",
+            "type": "color"
           }
         },
         "tag": {
