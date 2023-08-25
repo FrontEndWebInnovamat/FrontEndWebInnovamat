@@ -1218,6 +1218,10 @@
           "imported": {
             "value": "{color.global.teal.teal50}",
             "type": "color"
+          },
+          "imported-background": {
+            "value": "{color.global.teal.teal10}",
+            "type": "color"
           }
         },
         "tag": {
