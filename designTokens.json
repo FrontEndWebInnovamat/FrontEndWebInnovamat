@@ -1511,6 +1511,10 @@
             "value": "{color.global.neutral.neutral10}",
             "type": "color"
           },
+          "background-default": {
+            "value": "{color.global.white}",
+            "type": "color"
+          },
           "element-disabled": {
             "value": "{color.global.neutral.neutral40}",
             "type": "color"
