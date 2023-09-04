@@ -1134,6 +1134,14 @@
           "info-background": {
             "value": "{color.global.blue.blue10}",
             "type": "color"
+          },
+          "imported": {
+            "value": "{color.global.teal.teal50}",
+            "type": "color"
+          },
+          "imported-background": {
+            "value": "{color.global.teal.teal10}",
+            "type": "color"
           }
         },
         "menu-item": {
@@ -1213,14 +1221,6 @@
           },
           "new": {
             "value": "{color.global.red.red60}",
-            "type": "color"
-          },
-          "imported": {
-            "value": "{color.global.teal.teal50}",
-            "type": "color"
-          },
-          "imported-background": {
-            "value": "{color.global.teal.teal10}",
             "type": "color"
           }
         },
