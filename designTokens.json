@@ -1497,6 +1497,24 @@
             "value": "{color.global.blue.blue60}",
             "type": "color"
           }
+        },
+        "selector": {
+          "border-default": {
+            "value": "{color.global.neutral.neutral20}",
+            "type": "color"
+          },
+          "border-selected": {
+            "value": "{color.global.neutral.neutral80}",
+            "type": "color"
+          },
+          "background-disabled": {
+            "value": "{color.global.neutral.neutral10}",
+            "type": "color"
+          },
+          "element-disabled": {
+            "value": "{color.global.neutral.neutral40}",
+            "type": "color"
+          }
         }
       }
     },
