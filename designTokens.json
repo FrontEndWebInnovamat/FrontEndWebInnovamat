@@ -1468,7 +1468,7 @@
         },
         "input": {
           "stroke-default": {
-            "value": "{color.global.neutral.neutral60}",
+            "value": "{color.global.neutral.neutral50}",
             "type": "color"
           },
           "stroke-hover": {
