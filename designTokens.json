@@ -319,121 +319,103 @@
       }
     },
     "typography": {
-      "global": {
-        "Heading L": {
-          "value": {
-            "fontFamily": "{ManagerFont}",
-            "fontWeight": "600",
-            "fontSize": "3rem",
-            "lineHeight": "3.5rem"
-          },
-          "type": "typography"
-        },
-        "Heading M": {
-          "value": {
-            "fontFamily": "{ManagerFont}",
-            "lineHeight": "2.375rem",
-            "fontSize": "2rem",
-            "fontWeight": "500"
-          },
-          "type": "typography"
-        },
-        "Heading S": {
-          "value": {
-            "fontFamily": "{ManagerFont}",
-            "fontWeight": "500",
-            "lineHeight": "1.75rem",
-            "fontSize": "1.5rem"
-          },
-          "type": "typography"
-        },
-        "Title L": {
+      "Desktop": {
+        "H1": {
           "value": {
             "fontFamily": "{ManagerFont}",
             "fontWeight": "400",
-            "lineHeight": "1.75rem",
-            "fontSize": "2rem"
+            "lineHeight": "3.5rem",
+            "fontSize": "3rem"
           },
           "type": "typography"
         },
-        "Title M": {
+        "H2": {
+          "value": {
+            "fontFamily": "{ManagerFont}",
+            "fontWeight": "400",
+            "lineHeight": "2.5rem",
+            "fontSize": "2rem",
+            "letterSpacing": "0.25px"
+          },
+          "type": "typography"
+        },
+        "H3": {
           "value": {
             "fontFamily": "{ManagerFont}",
             "fontWeight": "400",
             "fontSize": "1.5rem",
-            "lineHeight": "1.75rem"
+            "lineHeight": "2rem",
+            "letterSpacing": "0.15px"
           },
           "type": "typography"
         },
-        "Title S": {
+        "H4": {
           "value": {
             "fontFamily": "{ManagerFont}",
             "fontWeight": "400",
             "fontSize": "1.25rem",
-            "lineHeight": "1.75rem"
+            "lineHeight": "1.75rem",
+            "letterSpacing": "0.15px"
           },
           "type": "typography"
         },
-        "Subtitle-Button M": {
+        "Subtitle 1": {
           "value": {
             "fontFamily": "{ManagerFont}",
             "fontWeight": "500",
             "fontSize": "1rem",
-            "lineHeight": "1.5rem"
+            "lineHeight": "1.5rem",
+            "letterSpacing": "0.15px"
           },
           "type": "typography"
         },
-        "Subtitle-Button S": {
+        "Subtitle 2": {
           "value": {
             "fontFamily": "{ManagerFont}",
             "fontWeight": "500",
-            "lineHeight": "1rem",
-            "fontSize": "0.875rem"
+            "lineHeight": "1.3125rem",
+            "fontSize": "0.875rem",
+            "letterSpacing": "0.1px"
           },
           "type": "typography"
         },
-        "Body L": {
+        "Body 1": {
           "value": {
             "fontFamily": "{ManagerFont}",
             "fontWeight": "400",
             "lineHeight": "1.5rem",
-            "fontSize": "1rem"
+            "fontSize": "1rem",
+            "letterSpacing": "0.25px"
           },
           "type": "typography"
         },
-        "Body M": {
+        "Body 2": {
           "value": {
             "fontFamily": "{ManagerFont}",
             "fontWeight": "400",
             "fontSize": "0.875rem",
-            "lineHeight": "1.3125rem"
+            "lineHeight": "1.3125rem",
+            "letterSpacing": "0.15px"
           },
           "type": "typography"
         },
-        "Body S": {
+        "Body 3": {
           "value": {
             "fontFamily": "{ManagerFont}",
             "fontWeight": "400",
             "lineHeight": "1rem",
-            "fontSize": "0.75rem"
+            "fontSize": "0.75rem",
+            "letterSpacing": "0.1px"
           },
           "type": "typography"
         },
-        "Caption-Footer M": {
+        "Caption": {
           "value": {
             "fontFamily": "{ManagerFont}",
             "fontWeight": "400",
-            "fontSize": "0.75rem",
-            "lineHeight": "1rem"
-          },
-          "type": "typography"
-        },
-        "Caption-Footer S": {
-          "value": {
-            "fontFamily": "{ManagerFont}",
-            "fontWeight": "400",
-            "fontSize": "0.75rem",
-            "lineHeight": "0.875rem"
+            "fontSize": "0.625rem",
+            "lineHeight": "1rem",
+            "letterSpacing": "0.2px"
           },
           "type": "typography"
         },
@@ -443,26 +425,8 @@
             "fontWeight": "500",
             "textCase": "uppercase",
             "letterSpacing": "1.5px",
-            "lineHeight": "0.875rem",
-            "fontSize": "0.75rem"
-          },
-          "type": "typography"
-        },
-        "Tooltip M": {
-          "value": {
-            "fontFamily": "{ManagerFont}",
-            "fontWeight": "400",
             "lineHeight": "1rem",
             "fontSize": "0.75rem"
-          },
-          "type": "typography"
-        },
-        "Tooltip S": {
-          "value": {
-            "fontFamily": "{ManagerFont}",
-            "fontWeight": "400",
-            "lineHeight": "0.875rem",
-            "fontSize": "0.625rem"
           },
           "type": "typography"
         },
@@ -472,7 +436,8 @@
             "fontWeight": "400",
             "fontSize": "1rem",
             "textDecoration": "underline",
-            "lineHeight": "1.5rem"
+            "lineHeight": "1.5rem",
+            "letterSpacing": "0.25px"
           },
           "type": "typography"
         },
@@ -482,7 +447,8 @@
             "fontWeight": "400",
             "textDecoration": "underline",
             "lineHeight": "1.3125rem",
-            "fontSize": "0.875rem"
+            "fontSize": "0.875rem",
+            "letterSpacing": "0.15px"
           },
           "type": "typography"
         },
@@ -492,7 +458,153 @@
             "fontWeight": "400",
             "textDecoration": "underline",
             "lineHeight": "1rem",
+            "fontSize": "0.75rem",
+            "letterSpacing": "0.1px"
+          },
+          "type": "typography"
+        }
+      },
+      "Mobile": {
+        "H1": {
+          "value": {
+            "fontFamily": "{ManagerFont}",
+            "fontWeight": "400",
+            "lineHeight": "2.5rem",
+            "fontSize": "2rem"
+          },
+          "type": "typography"
+        },
+        "H2": {
+          "value": {
+            "fontFamily": "{ManagerFont}",
+            "fontWeight": "400",
+            "lineHeight": "1.875rem",
+            "fontSize": "1.5rem",
+            "letterSpacing": "0.15px"
+          },
+          "type": "typography"
+        },
+        "H3": {
+          "value": {
+            "fontFamily": "{ManagerFont}",
+            "fontWeight": "400",
+            "fontSize": "1.25rem",
+            "lineHeight": "1.625rem",
+            "letterSpacing": "0.1px"
+          },
+          "type": "typography"
+        },
+        "H4": {
+          "value": {
+            "fontFamily": "{ManagerFont}",
+            "fontWeight": "400",
+            "fontSize": "1.125rem",
+            "lineHeight": "1.5rem",
+            "letterSpacing": "0.08px"
+          },
+          "type": "typography"
+        },
+        "Subtitle 1": {
+          "value": {
+            "fontFamily": "{ManagerFont}",
+            "fontWeight": "500",
+            "fontSize": "1rem",
+            "lineHeight": "1.5rem",
+            "letterSpacing": "0.08px"
+          },
+          "type": "typography"
+        },
+        "Subtitle 2": {
+          "value": {
+            "fontFamily": "{ManagerFont}",
+            "fontWeight": "500",
+            "lineHeight": "1.3125rem",
+            "fontSize": "0.875rem",
+            "letterSpacing": "0.07px"
+          },
+          "type": "typography"
+        },
+        "Body 1": {
+          "value": {
+            "fontFamily": "{ManagerFont}",
+            "fontWeight": "400",
+            "lineHeight": "1.5rem",
+            "fontSize": "1rem",
+            "letterSpacing": "0.08px"
+          },
+          "type": "typography"
+        },
+        "Body 2": {
+          "value": {
+            "fontFamily": "{ManagerFont}",
+            "fontWeight": "400",
+            "fontSize": "0.875rem",
+            "lineHeight": "1.3125rem",
+            "letterSpacing": "0.07px"
+          },
+          "type": "typography"
+        },
+        "Body 3": {
+          "value": {
+            "fontFamily": "{ManagerFont}",
+            "fontWeight": "400",
+            "lineHeight": "1rem",
+            "fontSize": "0.75rem",
+            "letterSpacing": "0.06px"
+          },
+          "type": "typography"
+        },
+        "Caption": {
+          "value": {
+            "fontFamily": "{ManagerFont}",
+            "fontWeight": "400",
+            "fontSize": "0.625rem",
+            "lineHeight": "1rem",
+            "letterSpacing": "0.1px"
+          },
+          "type": "typography"
+        },
+        "Super Title": {
+          "value": {
+            "fontFamily": "{ManagerFont}",
+            "fontWeight": "500",
+            "textCase": "uppercase",
+            "letterSpacing": "1.5px",
+            "lineHeight": "1rem",
             "fontSize": "0.75rem"
+          },
+          "type": "typography"
+        },
+        "link L": {
+          "value": {
+            "fontFamily": "$ManagerFont",
+            "fontWeight": "400",
+            "fontSize": "1rem",
+            "textDecoration": "underline",
+            "lineHeight": "1.5rem",
+            "letterSpacing": "0.08px"
+          },
+          "type": "typography"
+        },
+        "link M": {
+          "value": {
+            "fontFamily": "$ManagerFont",
+            "fontWeight": "400",
+            "textDecoration": "underline",
+            "lineHeight": "1.3125rem",
+            "fontSize": "0.875rem",
+            "letterSpacing": "0.07px"
+          },
+          "type": "typography"
+        },
+        "link S": {
+          "value": {
+            "fontFamily": "$ManagerFont",
+            "fontWeight": "400",
+            "textDecoration": "underline",
+            "lineHeight": "1rem",
+            "fontSize": "0.75rem",
+            "letterSpacing": "0.06px"
           },
           "type": "typography"
         }
