@@ -430,7 +430,7 @@
           },
           "type": "typography"
         },
-        "link L": {
+        "link 1": {
           "value": {
             "fontFamily": "$ManagerFont",
             "fontWeight": "400",
@@ -441,7 +441,7 @@
           },
           "type": "typography"
         },
-        "link M": {
+        "link 2": {
           "value": {
             "fontFamily": "$ManagerFont",
             "fontWeight": "400",
@@ -452,7 +452,7 @@
           },
           "type": "typography"
         },
-        "link S": {
+        "link 3": {
           "value": {
             "fontFamily": "$ManagerFont",
             "fontWeight": "400",
@@ -575,7 +575,7 @@
           },
           "type": "typography"
         },
-        "link L": {
+        "link 1": {
           "value": {
             "fontFamily": "$ManagerFont",
             "fontWeight": "400",
@@ -586,7 +586,7 @@
           },
           "type": "typography"
         },
-        "link M": {
+        "link 2": {
           "value": {
             "fontFamily": "$ManagerFont",
             "fontWeight": "400",
@@ -597,7 +597,7 @@
           },
           "type": "typography"
         },
-        "link S": {
+        "link 3": {
           "value": {
             "fontFamily": "$ManagerFont",
             "fontWeight": "400",
