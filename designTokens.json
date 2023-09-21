@@ -1334,6 +1334,10 @@
           "new": {
             "value": "{color.global.red.red60}",
             "type": "color"
+          },
+          "owner-background": {
+            "value": "{color.global.neutral.neutral80}",
+            "type": "color"
           }
         },
         "tag": {
