@@ -609,7 +609,7 @@
           "type": "typography"
         }
       },
-      "reports": {
+      "Reports": {
         "data-highlight": {
           "value": {
             "fontFamily": "{ManagerFont}",
