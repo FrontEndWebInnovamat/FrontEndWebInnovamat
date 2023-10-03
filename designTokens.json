@@ -608,6 +608,17 @@
           },
           "type": "typography"
         }
+      },
+      "reports": {
+        "data-highlight": {
+          "value": {
+            "fontFamily": "{ManagerFont}",
+            "fontWeight": "500",
+            "lineHeight": "1.5rem",
+            "fontSize": "1.25rem"
+          },
+          "type": "typography"
+        }
       }
     },
     "ManagerFont": {
