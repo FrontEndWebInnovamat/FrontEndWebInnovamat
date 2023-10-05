@@ -1349,6 +1349,10 @@
           "owner-background": {
             "value": "{color.global.neutral.neutral80}",
             "type": "color"
+          },
+          "thumbnail-placeholder": {
+            "value": "{color.global.neutral.neutral10}",
+            "type": "color"
           }
         },
         "tag": {
