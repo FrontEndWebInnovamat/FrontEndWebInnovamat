@@ -1595,6 +1595,20 @@
               "value": "{color.global.green.green70}",
               "type": "color"
             }
+          },
+          "progress-bar": {
+            "low": {
+              "value": "{color.global.red.red60}",
+              "type": "color"
+            },
+            "completed": {
+              "value": "{color.global.neutral.neutral80}",
+              "type": "color"
+            },
+            "empty": {
+              "value": "{color.global.neutral.neutral30}",
+              "type": "color"
+            }
           }
         },
         "input": {
