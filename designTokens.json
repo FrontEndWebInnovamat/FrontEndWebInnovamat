@@ -1664,6 +1664,22 @@
             "value": "{color.global.neutral.neutral40}",
             "type": "color"
           }
+        },
+        "manager": {
+          "tag": {
+            "bg": {
+              "catch-up": {
+                "value": "{color.global.orange.orange20}",
+                "type": "color"
+              }
+            },
+            "text": {
+              "catch-up": {
+                "value": "{color.global.orange.orange80}",
+                "type": "color"
+              }
+            }
+          }
         }
       }
     },
