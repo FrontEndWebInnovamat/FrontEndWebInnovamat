@@ -1669,13 +1669,13 @@
           "tag": {
             "bg": {
               "catch-up": {
-                "value": "{color.global.orange.orange20}",
+                "value": "{color.context.semantic.info-background}",
                 "type": "color"
               }
             },
             "text": {
               "catch-up": {
-                "value": "{color.global.orange.orange80}",
+                "value": "{color.context.semantic.info}",
                 "type": "color"
               }
             }
