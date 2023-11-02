@@ -1572,6 +1572,10 @@
             "divider-secondary": {
               "value": "{color.global.neutral.neutral20}",
               "type": "color"
+            },
+            "background-highlight": {
+              "value": "{color.global.neutral.neutral10}",
+              "type": "color"
             }
           },
           "semantic": {
