@@ -1608,6 +1608,14 @@
             "empty": {
               "value": "{color.global.neutral.neutral30}",
               "type": "color"
+            },
+            "home": {
+              "value": "{color.global.neutral.neutral50}",
+              "type": "color"
+            },
+            "school": {
+              "value": "{color.global.neutral.neutral80}",
+              "type": "color"
             }
           }
         },
