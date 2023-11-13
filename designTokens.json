@@ -1643,6 +1643,24 @@
                 "type": "color"
               }
             }
+          },
+          "radius-button": {
+            "border": {
+              "border-default": {
+                "value": "{color.global.neutral.neutral500}",
+                "type": "color"
+              }
+            },
+            "bg": {
+              "bg-default": {
+                "value": "{color.context.surface.primary}",
+                "type": "color"
+              },
+              "bg-selected": {
+                "value": "{color.alias.bg.bg-accent}",
+                "type": "color"
+              }
+            }
           }
         }
       }
