@@ -1601,7 +1601,7 @@
             "type": "color"
           }
         },
-        "manager": {
+        "cm": {
           "tag": {
             "bg": {
               "catch-up": {
@@ -1612,6 +1612,34 @@
             "text": {
               "catch-up": {
                 "value": "{color.context.semantic.info}",
+                "type": "color"
+              }
+            }
+          },
+          "mailchip": {
+            "border": {
+              "border-default": {
+                "value": "{color.context.element.divider}",
+                "type": "color"
+              }
+            },
+            "avatar": {
+              "bg": {
+                "bg-default": {
+                  "value": "{color.alias.bg.bg-accent-subtle}",
+                  "type": "color"
+                }
+              },
+              "icon": {
+                "icon-default": {
+                  "value": "{color.alias.icon.icon-accent}",
+                  "type": "color"
+                }
+              }
+            },
+            "text": {
+              "text-default": {
+                "value": "{color.context.text.text-secondary}",
                 "type": "color"
               }
             }
@@ -1644,12 +1672,35 @@
       }
     }
   },
+  "alias": {
+    "color": {
+      "alias": {
+        "bg": {
+          "bg-accent": {
+            "value": "{color.global.teal.teal500}",
+            "type": "color"
+          },
+          "bg-accent-subtle": {
+            "value": "{color.global.teal.teal100}",
+            "type": "color"
+          }
+        },
+        "icon": {
+          "icon-accent": {
+            "value": "{color.global.teal.teal700}",
+            "type": "color"
+          }
+        }
+      }
+    }
+  },
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
       "global",
       "global_new",
-      "Light"
+      "Light",
+      "alias"
     ]
   }
 }
