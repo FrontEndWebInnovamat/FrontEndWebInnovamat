@@ -1054,6 +1054,28 @@
       "type": "fontFamilies"
     }
   },
+  "alias": {
+    "color": {
+      "alias": {
+        "bg": {
+          "bg-accent": {
+            "value": "{color.global.teal.teal500}",
+            "type": "color"
+          },
+          "bg-accent-subtle": {
+            "value": "{color.global.teal.teal100}",
+            "type": "color"
+          }
+        },
+        "icon": {
+          "icon-accent": {
+            "value": "{color.global.teal.teal700}",
+            "type": "color"
+          }
+        }
+      }
+    }
+  },
   "Light": {
     "color": {
       "context": {
@@ -1690,35 +1712,13 @@
       }
     }
   },
-  "alias": {
-    "color": {
-      "alias": {
-        "bg": {
-          "bg-accent": {
-            "value": "{color.global.teal.teal500}",
-            "type": "color"
-          },
-          "bg-accent-subtle": {
-            "value": "{color.global.teal.teal100}",
-            "type": "color"
-          }
-        },
-        "icon": {
-          "icon-accent": {
-            "value": "{color.global.teal.teal700}",
-            "type": "color"
-          }
-        }
-      }
-    }
-  },
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
       "global",
       "global_new",
-      "Light",
-      "alias"
+      "alias",
+      "Light"
     ]
   }
 }
