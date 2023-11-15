@@ -1522,6 +1522,12 @@
             "background-highlight": {
               "value": "{color.global.neutral.neutral100}",
               "type": "color"
+            },
+            "cell": {
+              "bg-empty": {
+                "value": "{color.global.neutral.neutral100}",
+                "type": "color"
+              }
             }
           },
           "semantic": {
