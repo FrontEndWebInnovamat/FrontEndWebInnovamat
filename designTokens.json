@@ -1689,6 +1689,20 @@
                 "type": "color"
               }
             }
+          },
+          "avatar-pic": {
+            "bg": {
+              "bg-default": {
+                "value": "{color.global.neutral.neutral100}",
+                "type": "color"
+              }
+            },
+            "icon": {
+              "icon-default": {
+                "value": "{color.context.icon.default}",
+                "type": "color"
+              }
+            }
           }
         }
       }
