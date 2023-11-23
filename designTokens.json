@@ -1072,6 +1072,12 @@
             "value": "{color.global.teal.teal700}",
             "type": "color"
           }
+        },
+        "border": {
+          "border-accent": {
+            "value": "{color.global.teal.teal500}",
+            "type": "color"
+          }
         }
       }
     }
