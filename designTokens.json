@@ -1078,6 +1078,12 @@
             "value": "{color.global.teal.teal500}",
             "type": "color"
           }
+        },
+        "text": {
+          "text-disabled": {
+            "value": "{color.global.neutral.neutral300}",
+            "type": "color"
+          }
         }
       }
     }
