@@ -1083,6 +1083,10 @@
           "text-disabled": {
             "value": "{color.global.neutral.neutral300}",
             "type": "color"
+          },
+          "text-accent": {
+            "value": "{color.global.teal.teal700}",
+            "type": "color"
           }
         }
       }
