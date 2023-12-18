@@ -1057,36 +1057,38 @@
   "alias": {
     "color": {
       "alias": {
-        "bg": {
-          "bg-accent-inverted": {
-            "value": "{color.global.teal.teal500}",
-            "type": "color"
+        "cm": {
+          "bg": {
+            "bg-accent-inverted": {
+              "value": "{color.global.teal.teal500}",
+              "type": "color"
+            },
+            "bg-accent": {
+              "value": "{color.global.teal.teal100}",
+              "type": "color"
+            }
           },
-          "bg-accent": {
-            "value": "{color.global.teal.teal100}",
-            "type": "color"
-          }
-        },
-        "icon": {
-          "icon-accent": {
-            "value": "{color.global.teal.teal700}",
-            "type": "color"
-          }
-        },
-        "border": {
-          "border-accent": {
-            "value": "{color.global.teal.teal500}",
-            "type": "color"
-          }
-        },
-        "text": {
-          "text-disabled": {
-            "value": "{color.global.neutral.neutral300}",
-            "type": "color"
+          "icon": {
+            "icon-accent": {
+              "value": "{color.global.teal.teal700}",
+              "type": "color"
+            }
           },
-          "text-accent": {
-            "value": "{color.global.teal.teal700}",
-            "type": "color"
+          "border": {
+            "border-accent": {
+              "value": "{color.global.teal.teal500}",
+              "type": "color"
+            }
+          },
+          "text": {
+            "text-disabled": {
+              "value": "{color.global.neutral.neutral300}",
+              "type": "color"
+            },
+            "text-accent": {
+              "value": "{color.global.teal.teal700}",
+              "type": "color"
+            }
           }
         }
       }
@@ -1670,13 +1672,13 @@
             "avatar": {
               "bg": {
                 "bg-default": {
-                  "value": "{color.alias.bg.bg-accent}",
+                  "value": "{color.alias.cm.bg.bg-accent}",
                   "type": "color"
                 }
               },
               "icon": {
                 "icon-default": {
-                  "value": "{color.alias.icon.icon-accent}",
+                  "value": "{color.alias.cm.icon.icon-accent}",
                   "type": "color"
                 }
               }
@@ -1701,7 +1703,7 @@
                 "type": "color"
               },
               "bg-selected": {
-                "value": "{color.alias.bg.bg-accent-inverted}",
+                "value": "{color.alias.cm.bg.bg-accent-inverted}",
                 "type": "color"
               }
             }
