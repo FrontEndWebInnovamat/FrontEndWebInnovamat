@@ -1058,11 +1058,11 @@
     "color": {
       "alias": {
         "bg": {
-          "bg-accent": {
+          "bg-accent-inverted": {
             "value": "{color.global.teal.teal500}",
             "type": "color"
           },
-          "bg-accent-subtle": {
+          "bg-accent": {
             "value": "{color.global.teal.teal100}",
             "type": "color"
           }
@@ -1670,7 +1670,7 @@
             "avatar": {
               "bg": {
                 "bg-default": {
-                  "value": "{color.alias.bg.bg-accent-subtle}",
+                  "value": "{color.alias.bg.bg-accent}",
                   "type": "color"
                 }
               },
@@ -1701,7 +1701,7 @@
                 "type": "color"
               },
               "bg-selected": {
-                "value": "{color.alias.bg.bg-accent}",
+                "value": "{color.alias.bg.bg-accent-inverted}",
                 "type": "color"
               }
             }
