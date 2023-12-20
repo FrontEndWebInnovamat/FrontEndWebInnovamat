@@ -1083,6 +1083,15 @@
             }
           },
           "border": {
+            "border-default": {
+              "value": "{color.global.neutral.neutral400}",
+              "type": "color"
+            },
+            "border-subtle": {
+              "value": "{color.global.neutral.neutral200}",
+              "type": "color",
+              "description": "Old Divider"
+            },
             "border-accent": {
               "value": "{color.global.teal.teal500}",
               "type": "color"
@@ -1278,10 +1287,6 @@
           }
         },
         "element": {
-          "divider": {
-            "value": "$color.global.neutral.neutral200",
-            "type": "color"
-          },
           "tooltip-background": {
             "value": "{color.global.neutral.neutral700}",
             "type": "color"
