@@ -1670,7 +1670,7 @@
           "mailchip": {
             "border": {
               "border-default": {
-                "value": "{color.context.element.divider}",
+                "value": "{color.alias.cm.border.border-subtle}",
                 "type": "color"
               }
             },
