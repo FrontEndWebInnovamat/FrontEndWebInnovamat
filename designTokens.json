@@ -1077,7 +1077,8 @@
             },
             "bg-error": {
               "value": "{color.global.red.red100}",
-              "type": "color"
+              "type": "color",
+              "description": "Semantic"
             },
             "bg-neutral-inverted": {
               "value": "{color.global.neutral.neutral700}",
@@ -1099,7 +1100,8 @@
             },
             "icon-error": {
               "value": "{color.global.red.red500}",
-              "type": "color"
+              "type": "color",
+              "description": "Semantic"
             },
             "icon-inverted": {
               "value": "{color.global.white}",
