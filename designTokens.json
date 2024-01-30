@@ -1278,7 +1278,7 @@
             "type": "color"
           },
           "communication-element": {
-            "value": "$color.global.purple.purple700",
+            "value": "{color.global.purple.purple700}",
             "type": "color"
           },
           "problem-background": {
