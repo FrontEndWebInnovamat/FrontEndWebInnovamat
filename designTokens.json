@@ -1169,6 +1169,10 @@
             "border-disabled": {
               "value": "rgba(0,0,0,0.15)",
               "type": "color"
+            },
+            "border-inverted": {
+              "value": "{color.global.neutral.neutral700}",
+              "type": "color"
             }
           },
           "text": {
