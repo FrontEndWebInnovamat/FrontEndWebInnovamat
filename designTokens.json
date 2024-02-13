@@ -1216,7 +1216,11 @@
       "specific": {
         "element": {
           "link": {
-            "value": "{color.alias.cm.text.text-accent}",
+            "value": "{color.global.teal.teal500}",
+            "type": "color"
+          },
+          "link-hovered": {
+            "value": "{color.global.teal.teal700}",
             "type": "color"
           },
           "overlay": {
