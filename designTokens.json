@@ -1195,6 +1195,10 @@
             "text-inverted": {
               "value": "{color.global.white}",
               "type": "color"
+            },
+            "text-error": {
+              "value": "{color.global.red.red500}",
+              "type": "color"
             }
           },
           "surface": {
