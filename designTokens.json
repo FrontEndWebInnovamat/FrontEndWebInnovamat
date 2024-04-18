@@ -1250,6 +1250,10 @@
           "new": {
             "value": "{color.global.red.red500}",
             "type": "color"
+          },
+          "score-star": {
+            "value": "{color.global.yellow.yellow500}",
+            "type": "color"
           }
         },
         "smart-guides": {
