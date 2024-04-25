@@ -1254,6 +1254,10 @@
           "score-star": {
             "value": "{color.global.yellow.yellow500}",
             "type": "color"
+          },
+          "video-bar": {
+            "value": "{color.global.orange.orange500}",
+            "type": "color"
           }
         },
         "smart-guides": {
