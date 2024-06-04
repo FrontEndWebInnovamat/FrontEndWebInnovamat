@@ -548,6 +548,14 @@
     "ManagerFont": {
       "value": "Roboto",
       "type": "fontFamilies"
+    },
+    "motion": {
+      "curve": {
+        "Test-vector": {
+          "value": "(12,34,32)",
+          "type": "number"
+        }
+      }
     }
   },
   "global_new": {
