@@ -216,19 +216,19 @@
         },
         "teal": {
           "teal100": {
-            "value": "#E8F9F8",
+            "value": "#EFFAF8",
             "type": "color"
           },
           "teal200": {
-            "value": "#D1F4F0",
+            "value": "#CEF2EC",
             "type": "color"
           },
           "teal300": {
-            "value": "#8BE2DA",
+            "value": "#A2E7DA",
             "type": "color"
           },
           "teal400": {
-            "value": "#18C6B5",
+            "value": "#70D2C5",
             "type": "color"
           },
           "teal500": {
@@ -236,7 +236,7 @@
             "type": "color"
           },
           "teal700": {
-            "value": "#108478",
+            "value": "#10756E",
             "type": "color"
           }
         }
@@ -554,6 +554,10 @@
         "value": "(0.2, 0.0, 0, 1.0,500)",
         "type": "other"
       },
+      "lateral-transition": {
+        "value": "(0.5, 0, 0, 1.25,400)",
+        "type": "other"
+      },
       "long": {
         "entry": {
           "value": "(0.05, 0.7, 0.1, 1.0,400)",
@@ -561,6 +565,16 @@
         },
         "exit": {
           "value": "(0.3, 0.0, 0.8, 0.15,200)",
+          "type": "other"
+        }
+      },
+      "short": {
+        "entry": {
+          "value": "(0.05, 0.7, 0.1, 1.0,200)",
+          "type": "other"
+        },
+        "exit": {
+          "value": "(0.3, 0.0, 0.8, 0.15,100)",
           "type": "other"
         }
       }
