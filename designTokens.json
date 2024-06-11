@@ -1177,7 +1177,7 @@
               "description": "Semantic"
             },
             "icon-imported": {
-              "value": "{color.global.teal.teal500}",
+              "value": "{color.global.teal.teal700}",
               "type": "color",
               "description": "Semantic"
             }
