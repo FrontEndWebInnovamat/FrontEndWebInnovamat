@@ -4,27 +4,27 @@
       "global": {
         "neutral": {
           "neutral100": {
-            "value": "#f5f5f5",
+            "value": "#F3F7F6",
             "type": "color"
           },
           "neutral200": {
-            "value": "#e5e5e5",
+            "value": "#DCE5E3",
             "type": "color"
           },
           "neutral300": {
-            "value": "#cccccc",
+            "value": "#B1BCBB",
             "type": "color"
           },
           "neutral400": {
-            "value": "#949494",
+            "value": "#718482",
             "type": "color"
           },
           "neutral500": {
-            "value": "#757575",
+            "value": "#4D5B5A",
             "type": "color"
           },
           "neutral700": {
-            "value": "#333333",
+            "value": "#222F2D",
             "type": "color"
           }
         },
