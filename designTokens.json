@@ -1229,6 +1229,10 @@
             "text-error": {
               "value": "{color.global.red.red500}",
               "type": "color"
+            },
+            "text-info": {
+              "value": "{color.global.blue.blue700}",
+              "type": "color"
             }
           },
           "surface": {
