@@ -1233,6 +1233,14 @@
             "text-info": {
               "value": "{color.global.blue.blue700}",
               "type": "color"
+            },
+            "text-warning": {
+              "value": "{color.global.orange.orange700}",
+              "type": "color"
+            },
+            "text-success": {
+              "value": "{color.global.green.green700}",
+              "type": "color"
             }
           },
           "surface": {
