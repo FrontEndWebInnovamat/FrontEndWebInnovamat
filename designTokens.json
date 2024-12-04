@@ -961,6 +961,10 @@
           "video-bar": {
             "value": "{color.global.orange.orange500}",
             "type": "color"
+          },
+          "skeleton": {
+            "value": "{color.global.neutral.neutral100}",
+            "type": "color"
           }
         },
         "smart-guides": {
