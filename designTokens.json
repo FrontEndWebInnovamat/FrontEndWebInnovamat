@@ -587,166 +587,191 @@
           "bg": {
             "bg-accent-inverted": {
               "value": "{color.global.teal.teal500}",
-              "type": "color"
+              "type": "color",
+              "description": "Use for the background color of actions elements when status of accent or active. Coponents such as buttons or toggle switch."
             },
             "bg-accent": {
               "value": "{color.global.teal.teal100}",
-              "type": "color"
+              "type": "color",
+              "description": "Use as a subtle background of active elements. Normaly, it is accompained by a harder accent shade in icons or text."
             },
             "bg-neutral-inverted": {
               "value": "{color.global.neutral.neutral700}",
-              "type": "color"
+              "type": "color",
+              "description": "Use for active elements thant don't use accent color. For example checkbox when solutions are not active or tooltips."
             },
             "bg-neutral-inverted-subtle": {
               "value": "{color.global.neutral.neutral400}",
-              "type": "color"
+              "type": "color",
+              "description": "Use as a inverted background for small elements that don't use surface tokens."
             },
             "bg-neutral-subtle": {
               "value": "{color.global.neutral.neutral100}",
-              "type": "color"
+              "type": "color",
+              "description": "Use as a background for small elements that don't use surface tokens. For example the secondary button background."
             },
             "bg-disabled": {
               "value": "rgba(0,0,0,0.05)",
-              "type": "color"
+              "type": "color",
+              "description": "Use for background of disabled elements."
             },
             "bg-error": {
               "value": "{color.global.red.red100}",
               "type": "color",
-              "description": "Semantic"
+              "description": "Semantic. Use for background of error elements."
             },
             "bg-success": {
               "value": "{color.global.green.green100}",
               "type": "color",
-              "description": "Semantic"
+              "description": "Semantic. Use for background of success elements."
             },
             "bg-warning": {
               "value": "{color.global.orange.orange100}",
               "type": "color",
-              "description": "Semantic"
+              "description": "Semantic. Use for background of warning elements."
             },
             "bg-info": {
               "value": "{color.global.blue.blue100}",
               "type": "color",
-              "description": "Semantic"
+              "description": "Semantic. Use for background of info elements."
             },
             "bg-imported": {
               "value": "{color.global.teal.teal100}",
               "type": "color",
-              "description": "Semantic"
+              "description": "Semantic. Use for background of imported elements. - Not in use"
             }
           },
           "icon": {
             "icon-accent": {
               "value": "{color.global.teal.teal700}",
-              "type": "color"
+              "type": "color",
+              "description": "Use in icons in active elements. Normaly accompained by bg-accent."
             },
             "icon-default": {
               "value": "{color.global.neutral.neutral500}",
-              "type": "color"
+              "type": "color",
+              "description": "Use as default color for the incons."
             },
             "icon-disabled": {
               "value": "rgba(0,0,0,0.15)",
-              "type": "color"
+              "type": "color",
+              "description": "Use for icons in disabled elements"
             },
             "icon-inverted": {
               "value": "{color.global.white}",
-              "type": "color"
+              "type": "color",
+              "description": "Use for icons on inverted backgrounds such as bg-accent-inverted or bg-inverted."
             },
             "icon-error": {
               "value": "{color.global.red.red500}",
               "type": "color",
-              "description": "Semantic"
+              "description": "Semantic. Use for icons on error elements."
             },
             "icon-success": {
               "value": "{color.global.green.green700}",
               "type": "color",
-              "description": "Semantic"
+              "description": "Semantic. Use for icons on success elements."
             },
             "icon-warning": {
               "value": "{color.global.orange.orange500}",
               "type": "color",
-              "description": "Semantic"
+              "description": "Semantic. Use for icons on warning elements."
             },
             "icon-info": {
               "value": "{color.global.blue.blue700}",
               "type": "color",
-              "description": "Semantic"
+              "description": "Semantic. Use for icons on info elements."
             },
             "icon-imported": {
               "value": "{color.global.teal.teal700}",
               "type": "color",
-              "description": "Semantic"
+              "description": "Semantic. Use for icons on imported elements."
             }
           },
           "border": {
             "border-accent": {
               "value": "{color.global.teal.teal500}",
-              "type": "color"
+              "type": "color",
+              "description": "Use for border of accent or selected elements."
             },
             "border-default": {
               "value": "{color.global.neutral.neutral400}",
-              "type": "color"
+              "type": "color",
+              "description": "Use for small components such as toggle switch were the subtle token is not enough."
             },
             "border-subtle": {
               "value": "{color.global.neutral.neutral200}",
               "type": "color",
-              "description": "Old Divider"
+              "description": "Used as divider aswells as default border for most element. Old divider token."
             },
             "border-disabled": {
               "value": "rgba(0,0,0,0.15)",
-              "type": "color"
+              "type": "color",
+              "description": "Use for disabled elements border."
             },
             "border-inverted": {
               "value": "{color.global.neutral.neutral700}",
-              "type": "color"
+              "type": "color",
+              "description": "Use for inverted elements border."
             }
           },
           "text": {
             "text-accent": {
               "value": "{color.global.teal.teal700}",
-              "type": "color"
+              "type": "color",
+              "description": "Use for text in accent elements. Normaly accompained by the bg-accent."
             },
             "text": {
               "value": "{color.global.neutral.neutral700}",
-              "type": "color"
+              "type": "color",
+              "description": "Default token for text."
             },
             "text-subtle": {
               "value": "{color.global.neutral.neutral500}",
-              "type": "color"
+              "type": "color",
+              "description": "Use for text with less hierarchy than text token."
             },
             "text-disabled": {
               "value": "rgba(0,0,0,0.15)",
-              "type": "color"
+              "type": "color",
+              "description": "Use for disabled text."
             },
             "text-inverted": {
               "value": "{color.global.white}",
-              "type": "color"
+              "type": "color",
+              "description": "Use for text on inverted background."
             },
             "text-error": {
               "value": "{color.global.red.red500}",
-              "type": "color"
+              "type": "color",
+              "description": "Semantic. Use for text on error elements."
             },
             "text-info": {
               "value": "{color.global.blue.blue700}",
-              "type": "color"
+              "type": "color",
+              "description": "Semantic. Use for icons on info elements."
             },
             "text-warning": {
               "value": "{color.global.orange.orange700}",
-              "type": "color"
+              "type": "color",
+              "description": "Semantic. Use for icons on warning elements."
             },
             "text-success": {
               "value": "{color.global.green.green700}",
-              "type": "color"
+              "type": "color",
+              "description": "Semantic. Use for icons on success elements."
             }
           },
           "surface": {
             "surface-primary": {
               "value": "{color.global.white}",
-              "type": "color"
+              "type": "color",
+              "description": "Use for neutral large surfaces."
             },
             "surface-secondary": {
               "value": "{color.global.neutral.neutral100}",
-              "type": "color"
+              "type": "color",
+              "description": "Use for secondary large surfaces such as material container or class container."
             }
           }
         }
