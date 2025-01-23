@@ -588,7 +588,7 @@
             "bg-accent-inverted": {
               "value": "{color.global.teal.teal500}",
               "type": "color",
-              "description": "Use for the background color of actions elements when status of accent or active. Coponents such as buttons or toggle switch."
+              "description": "Use for the background color of actions elements when status of accent or active. Components such as buttons or toggle switch."
             },
             "bg-accent": {
               "value": "{color.global.teal.teal100}",
