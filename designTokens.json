@@ -1028,8 +1028,12 @@
             "value": "$color.global.orange.orange200",
             "type": "color"
           },
-          "connections-element": {
-            "value": "$color.global.orange.orange700",
+          "reasoningwithdata-background": {
+            "value": "$color.global.red.red200",
+            "type": "color"
+          },
+          "reasoningwithdata-element": {
+            "value": "$color.global.red.red700",
             "type": "color"
           },
           "part1-background": {
