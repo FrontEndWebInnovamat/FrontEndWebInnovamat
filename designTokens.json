@@ -4,240 +4,240 @@
       "global": {
         "neutral": {
           "neutral100": {
-            "value": "#F3F7F6",
-            "type": "color"
+            "$type": "color",
+            "$value": "#F3F7F6"
           },
           "neutral200": {
-            "value": "#DCE5E3",
-            "type": "color"
+            "$type": "color",
+            "$value": "#DCE5E3"
           },
           "neutral300": {
-            "value": "#B1BCBB",
-            "type": "color"
+            "$type": "color",
+            "$value": "#B1BCBB"
           },
           "neutral400": {
-            "value": "#718482",
-            "type": "color"
+            "$type": "color",
+            "$value": "#718482"
           },
           "neutral500": {
-            "value": "#4D5B5A",
-            "type": "color"
+            "$type": "color",
+            "$value": "#4D5B5A"
           },
           "neutral700": {
-            "value": "#222F2D",
-            "type": "color"
+            "$type": "color",
+            "$value": "#222F2D"
           }
         },
         "white": {
-          "value": "#ffffff",
-          "type": "color"
+          "$type": "color",
+          "$value": "#ffffff"
         },
         "red": {
           "red100": {
-            "value": "#FFE9E5",
-            "type": "color"
+            "$type": "color",
+            "$value": "#FFE9E5"
           },
           "red200": {
-            "value": "#FFD4CC",
-            "type": "color"
+            "$type": "color",
+            "$value": "#FFD4CC"
           },
           "red300": {
-            "value": "#FFA899",
-            "type": "color"
+            "$type": "color",
+            "$value": "#FFA899"
           },
           "red400": {
-            "value": "#FF7D66",
-            "type": "color"
+            "$type": "color",
+            "$value": "#FF7D66"
           },
           "red500": {
-            "value": "#FF5233",
-            "type": "color"
+            "$type": "color",
+            "$value": "#FF5233"
           },
           "red700": {
-            "value": "#CC1F00",
-            "type": "color"
+            "$type": "color",
+            "$value": "#CC1F00"
           }
         },
         "orange": {
           "orange100": {
-            "value": "#FFF2E5",
-            "type": "color"
+            "$type": "color",
+            "$value": "#FFF2E5"
           },
           "orange200": {
-            "value": "#FFE5CC",
-            "type": "color"
+            "$type": "color",
+            "$value": "#FFE5CC"
           },
           "orange300": {
-            "value": "#FFCC99",
-            "type": "color"
+            "$type": "color",
+            "$value": "#FFCC99"
           },
           "orange400": {
-            "value": "#FFB266",
-            "type": "color"
+            "$type": "color",
+            "$value": "#FFB266"
           },
           "orange500": {
-            "value": "#FF9933",
-            "type": "color"
+            "$type": "color",
+            "$value": "#FF9933"
           },
           "orange700": {
-            "value": "#CC6600",
-            "type": "color"
+            "$type": "color",
+            "$value": "#CC6600"
           }
         },
         "yellow": {
           "yellow100": {
-            "value": "#FFF8E5",
-            "type": "color"
+            "$type": "color",
+            "$value": "#FFF8E5"
           },
           "yellow200": {
-            "value": "#FFEFCC",
-            "type": "color"
+            "$type": "color",
+            "$value": "#FFEFCC"
           },
           "yellow300": {
-            "value": "#FFE099",
-            "type": "color"
+            "$type": "color",
+            "$value": "#FFE099"
           },
           "yellow400": {
-            "value": "#FFD066",
-            "type": "color"
+            "$type": "color",
+            "$value": "#FFD066"
           },
           "yellow500": {
-            "value": "#FFC033",
-            "type": "color"
+            "$type": "color",
+            "$value": "#FFC033"
           },
           "yellow700": {
-            "value": "#CC8D00",
-            "type": "color"
+            "$type": "color",
+            "$value": "#CC8D00"
           }
         },
         "green": {
           "green100": {
-            "value": "#F0FAEB",
-            "type": "color"
+            "$type": "color",
+            "$value": "#F0FAEB"
           },
           "green200": {
-            "value": "#E0F5D6",
-            "type": "color"
+            "$type": "color",
+            "$value": "#E0F5D6"
           },
           "green300": {
-            "value": "#C2EBAD",
-            "type": "color"
+            "$type": "color",
+            "$value": "#C2EBAD"
           },
           "green400": {
-            "value": "#A3E084",
-            "type": "color"
+            "$type": "color",
+            "$value": "#A3E084"
           },
           "green500": {
-            "value": "#84D65C",
-            "type": "color"
+            "$type": "color",
+            "$value": "#84D65C"
           },
           "green700": {
-            "value": "#51A329",
-            "type": "color"
+            "$type": "color",
+            "$value": "#51A329"
           }
         },
         "blue": {
           "blue100": {
-            "value": "#EAF7FB",
-            "type": "color"
+            "$type": "color",
+            "$value": "#EAF7FB"
           },
           "blue200": {
-            "value": "#D5F0F6",
-            "type": "color"
+            "$type": "color",
+            "$value": "#D5F0F6"
           },
           "blue300": {
-            "value": "#ABE1ED",
-            "type": "color"
+            "$type": "color",
+            "$value": "#ABE1ED"
           },
           "blue400": {
-            "value": "#81D2E4",
-            "type": "color"
+            "$type": "color",
+            "$value": "#81D2E4"
           },
           "blue500": {
-            "value": "#57C3DB",
-            "type": "color"
+            "$type": "color",
+            "$value": "#57C3DB"
           },
           "blue700": {
-            "value": "#2392AB",
-            "type": "color"
+            "$type": "color",
+            "$value": "#2392AB"
           }
         },
         "purple": {
           "purple100": {
-            "value": "#F7EEF6",
-            "type": "color"
+            "$type": "color",
+            "$value": "#F7EEF6"
           },
           "purple200": {
-            "value": "#EFDCED",
-            "type": "color"
+            "$type": "color",
+            "$value": "#EFDCED"
           },
           "purple300": {
-            "value": "#DEBADC",
-            "type": "color"
+            "$type": "color",
+            "$value": "#DEBADC"
           },
           "purple400": {
-            "value": "#CE97CA",
-            "type": "color"
+            "$type": "color",
+            "$value": "#CE97CA"
           },
           "purple500": {
-            "value": "#AD52A6",
-            "type": "color"
+            "$type": "color",
+            "$value": "#AD52A6"
           },
           "purple700": {
-            "value": "#8B4185",
-            "type": "color"
+            "$type": "color",
+            "$value": "#8B4185"
           }
         },
         "pink": {
           "pink100": {
-            "value": "#FDE7F5",
-            "type": "color"
+            "$type": "color",
+            "$value": "#FDE7F5"
           },
           "pink200": {
-            "value": "#FBD0EB",
-            "type": "color"
+            "$type": "color",
+            "$value": "#FBD0EB"
           },
           "pink300": {
-            "value": "#F7A1D6",
-            "type": "color"
+            "$type": "color",
+            "$value": "#F7A1D6"
           },
           "pink400": {
-            "value": "#F471C2",
-            "type": "color"
+            "$type": "color",
+            "$value": "#F471C2"
           },
           "pink500": {
-            "value": "#F042AD",
-            "type": "color"
+            "$type": "color",
+            "$value": "#F042AD"
           },
           "pink700": {
-            "value": "#D4118A",
-            "type": "color"
+            "$type": "color",
+            "$value": "#D4118A"
           }
         },
         "teal": {
           "teal100": {
-            "value": "#EFFAF8",
-            "type": "color"
+            "$type": "color",
+            "$value": "#EFFAF8"
           },
           "teal200": {
-            "value": "#CEF2EC",
-            "type": "color"
+            "$type": "color",
+            "$value": "#CEF2EC"
           },
           "teal300": {
-            "value": "#A2E7DA",
-            "type": "color"
+            "$type": "color",
+            "$value": "#A2E7DA"
           },
           "teal400": {
-            "value": "#70D2C5",
-            "type": "color"
+            "$type": "color",
+            "$value": "#70D2C5"
           },
           "teal500": {
-            "value": "#14A395",
-            "type": "color"
+            "$type": "color",
+            "$value": "#14A395"
           },
           "teal700": {
-            "value": "#10756E",
-            "type": "color"
+            "$type": "color",
+            "$value": "#10756E"
           }
         }
       }
@@ -245,337 +245,337 @@
     "typography": {
       "Desktop": {
         "H1": {
-          "value": {
+          "$type": "typography",
+          "$value": {
             "fontFamily": "{ManagerFont}",
             "fontWeight": "400",
             "lineHeight": "3.5rem",
             "fontSize": "3rem"
-          },
-          "type": "typography"
+          }
         },
         "H2": {
-          "value": {
+          "$type": "typography",
+          "$value": {
             "fontFamily": "{ManagerFont}",
             "fontWeight": "400",
             "lineHeight": "2.5rem",
             "fontSize": "2rem",
             "letterSpacing": "0.25px"
-          },
-          "type": "typography"
+          }
         },
         "H3": {
-          "value": {
+          "$type": "typography",
+          "$value": {
             "fontFamily": "{ManagerFont}",
             "fontWeight": "400",
             "fontSize": "1.5rem",
             "lineHeight": "2rem",
             "letterSpacing": "0.15px"
-          },
-          "type": "typography"
+          }
         },
         "H4": {
-          "value": {
+          "$type": "typography",
+          "$value": {
             "fontFamily": "{ManagerFont}",
             "fontWeight": "400",
             "fontSize": "1.25rem",
             "lineHeight": "1.75rem",
             "letterSpacing": "0.15px"
-          },
-          "type": "typography"
+          }
         },
         "Subtitle 1": {
-          "value": {
+          "$type": "typography",
+          "$value": {
             "fontFamily": "{ManagerFont}",
             "fontWeight": "500",
             "fontSize": "1rem",
             "lineHeight": "1.5rem",
             "letterSpacing": "0.15px"
-          },
-          "type": "typography"
+          }
         },
         "Subtitle 2": {
-          "value": {
+          "$type": "typography",
+          "$value": {
             "fontFamily": "{ManagerFont}",
             "fontWeight": "500",
             "lineHeight": "1.3125rem",
             "fontSize": "0.875rem",
             "letterSpacing": "0.1px"
-          },
-          "type": "typography"
+          }
         },
         "Body 1": {
-          "value": {
+          "$type": "typography",
+          "$value": {
             "fontFamily": "{ManagerFont}",
             "fontWeight": "400",
             "lineHeight": "1.5rem",
             "fontSize": "1rem",
             "letterSpacing": "0.25px"
-          },
-          "type": "typography"
+          }
         },
         "Body 2": {
-          "value": {
+          "$type": "typography",
+          "$value": {
             "fontFamily": "{ManagerFont}",
             "fontWeight": "400",
             "fontSize": "0.875rem",
             "lineHeight": "1.3125rem",
             "letterSpacing": "0.15px"
-          },
-          "type": "typography"
+          }
         },
         "Body 3": {
-          "value": {
+          "$type": "typography",
+          "$value": {
             "fontFamily": "{ManagerFont}",
             "fontWeight": "400",
             "lineHeight": "1rem",
             "fontSize": "0.75rem",
             "letterSpacing": "0.1px"
-          },
-          "type": "typography"
+          }
         },
         "Caption": {
-          "value": {
+          "$type": "typography",
+          "$value": {
             "fontFamily": "{ManagerFont}",
             "fontWeight": "400",
             "fontSize": "0.625rem",
             "lineHeight": "0.875rem",
             "letterSpacing": "0.2px"
-          },
-          "type": "typography"
+          }
         },
         "Super Title": {
-          "value": {
+          "$type": "typography",
+          "$value": {
             "fontFamily": "{ManagerFont}",
             "fontWeight": "500",
             "textCase": "uppercase",
             "letterSpacing": "1.5px",
             "lineHeight": "1rem",
             "fontSize": "0.75rem"
-          },
-          "type": "typography"
+          }
         },
         "link 1": {
-          "value": {
+          "$type": "typography",
+          "$value": {
             "fontFamily": "$ManagerFont",
             "fontWeight": "400",
             "fontSize": "1rem",
             "textDecoration": "underline",
             "lineHeight": "1.5rem",
             "letterSpacing": "0.25px"
-          },
-          "type": "typography"
+          }
         },
         "link 2": {
-          "value": {
+          "$type": "typography",
+          "$value": {
             "fontFamily": "$ManagerFont",
             "fontWeight": "400",
             "textDecoration": "underline",
             "lineHeight": "1.3125rem",
             "fontSize": "0.875rem",
             "letterSpacing": "0.15px"
-          },
-          "type": "typography"
+          }
         },
         "link 3": {
-          "value": {
+          "$type": "typography",
+          "$value": {
             "fontFamily": "$ManagerFont",
             "fontWeight": "400",
             "textDecoration": "underline",
             "lineHeight": "1rem",
             "fontSize": "0.75rem",
             "letterSpacing": "0.1px"
-          },
-          "type": "typography"
+          }
         }
       },
       "Mobile": {
         "H1": {
-          "value": {
+          "$type": "typography",
+          "$value": {
             "fontFamily": "{ManagerFont}",
             "fontWeight": "400",
             "lineHeight": "2.5rem",
             "fontSize": "2rem"
-          },
-          "type": "typography"
+          }
         },
         "H2": {
-          "value": {
+          "$type": "typography",
+          "$value": {
             "fontFamily": "{ManagerFont}",
             "fontWeight": "400",
             "lineHeight": "1.875rem",
             "fontSize": "1.5rem",
             "letterSpacing": "0.15px"
-          },
-          "type": "typography"
+          }
         },
         "H3": {
-          "value": {
+          "$type": "typography",
+          "$value": {
             "fontFamily": "{ManagerFont}",
             "fontWeight": "400",
             "fontSize": "1.25rem",
             "lineHeight": "1.625rem",
             "letterSpacing": "0.1px"
-          },
-          "type": "typography"
+          }
         },
         "H4": {
-          "value": {
+          "$type": "typography",
+          "$value": {
             "fontFamily": "{ManagerFont}",
             "fontWeight": "400",
             "fontSize": "1.125rem",
             "lineHeight": "1.5rem",
             "letterSpacing": "0.08px"
-          },
-          "type": "typography"
+          }
         },
         "Subtitle 1": {
-          "value": {
+          "$type": "typography",
+          "$value": {
             "fontFamily": "{ManagerFont}",
             "fontWeight": "500",
             "fontSize": "1rem",
             "lineHeight": "1.5rem",
             "letterSpacing": "0.08px"
-          },
-          "type": "typography"
+          }
         },
         "Subtitle 2": {
-          "value": {
+          "$type": "typography",
+          "$value": {
             "fontFamily": "{ManagerFont}",
             "fontWeight": "500",
             "lineHeight": "1.3125rem",
             "fontSize": "0.875rem",
             "letterSpacing": "0.07px"
-          },
-          "type": "typography"
+          }
         },
         "Body 1": {
-          "value": {
+          "$type": "typography",
+          "$value": {
             "fontFamily": "{ManagerFont}",
             "fontWeight": "400",
             "lineHeight": "1.5rem",
             "fontSize": "1rem",
             "letterSpacing": "0.08px"
-          },
-          "type": "typography"
+          }
         },
         "Body 2": {
-          "value": {
+          "$type": "typography",
+          "$value": {
             "fontFamily": "{ManagerFont}",
             "fontWeight": "400",
             "fontSize": "0.875rem",
             "lineHeight": "1.3125rem",
             "letterSpacing": "0.07px"
-          },
-          "type": "typography"
+          }
         },
         "Body 3": {
-          "value": {
+          "$type": "typography",
+          "$value": {
             "fontFamily": "{ManagerFont}",
             "fontWeight": "400",
             "lineHeight": "1rem",
             "fontSize": "0.75rem",
             "letterSpacing": "0.06px"
-          },
-          "type": "typography"
+          }
         },
         "Caption": {
-          "value": {
+          "$type": "typography",
+          "$value": {
             "fontFamily": "{ManagerFont}",
             "fontWeight": "400",
             "fontSize": "0.625rem",
             "lineHeight": "0.875rem",
             "letterSpacing": "0.1px"
-          },
-          "type": "typography"
+          }
         },
         "Super Title": {
-          "value": {
+          "$type": "typography",
+          "$value": {
             "fontFamily": "{ManagerFont}",
             "fontWeight": "500",
             "textCase": "uppercase",
             "letterSpacing": "1.5px",
             "lineHeight": "1rem",
             "fontSize": "0.75rem"
-          },
-          "type": "typography"
+          }
         },
         "link 1": {
-          "value": {
+          "$type": "typography",
+          "$value": {
             "fontFamily": "$ManagerFont",
             "fontWeight": "400",
             "fontSize": "1rem",
             "textDecoration": "underline",
             "lineHeight": "1.5rem",
             "letterSpacing": "0.08px"
-          },
-          "type": "typography"
+          }
         },
         "link 2": {
-          "value": {
+          "$type": "typography",
+          "$value": {
             "fontFamily": "$ManagerFont",
             "fontWeight": "400",
             "textDecoration": "underline",
             "lineHeight": "1.3125rem",
             "fontSize": "0.875rem",
             "letterSpacing": "0.07px"
-          },
-          "type": "typography"
+          }
         },
         "link 3": {
-          "value": {
+          "$type": "typography",
+          "$value": {
             "fontFamily": "$ManagerFont",
             "fontWeight": "400",
             "textDecoration": "underline",
             "lineHeight": "1rem",
             "fontSize": "0.75rem",
             "letterSpacing": "0.06px"
-          },
-          "type": "typography"
+          }
         }
       },
       "Reports": {
         "data-highlight": {
-          "value": {
+          "$type": "typography",
+          "$value": {
             "fontFamily": "{ManagerFont}",
             "fontWeight": "500",
             "lineHeight": "1.5rem",
             "fontSize": "1.25rem"
-          },
-          "type": "typography"
+          }
         }
       }
     },
     "ManagerFont": {
-      "value": "Roboto",
-      "type": "fontFamilies"
+      "$type": "fontFamilies",
+      "$value": "Roboto"
     },
     "motion": {
       "fullscreen-entry-exit": {
-        "value": "(0.2, 0.0, 0, 1.0,500)",
-        "type": "other"
+        "$type": "other",
+        "$value": "(0.2, 0.0, 0, 1.0,500)"
       },
       "lateral-transition": {
-        "value": "(0.5, 0, 0, 1.25,400)",
-        "type": "other"
+        "$type": "other",
+        "$value": "(0.5, 0, 0, 1.25,400)"
       },
       "long": {
         "entry": {
-          "value": "(0.05, 0.7, 0.1, 1.0,400)",
-          "type": "other"
+          "$type": "other",
+          "$value": "(0.05, 0.7, 0.1, 1.0,400)"
         },
         "exit": {
-          "value": "(0.3, 0.0, 0.8, 0.15,200)",
-          "type": "other"
+          "$type": "other",
+          "$value": "(0.3, 0.0, 0.8, 0.15,200)"
         }
       },
       "short": {
         "entry": {
-          "value": "(0.05, 0.7, 0.1, 1.0,200)",
-          "type": "other"
+          "$type": "other",
+          "$value": "(0.05, 0.7, 0.1, 1.0,200)"
         },
         "exit": {
-          "value": "(0.3, 0.0, 0.8, 0.15,100)",
-          "type": "other"
+          "$type": "other",
+          "$value": "(0.3, 0.0, 0.8, 0.15,100)"
         }
       }
     }
@@ -586,192 +586,192 @@
         "cm": {
           "bg": {
             "bg-accent-inverted": {
-              "value": "{color.global.teal.teal500}",
-              "type": "color",
-              "description": "Use for the background color of actions elements when status of accent or active. Components such as buttons or toggle switch."
+              "$type": "color",
+              "$value": "{color.global.teal.teal500}",
+              "$description": "Use for the background color of actions elements when status of accent or active. Components such as buttons or toggle switch."
             },
             "bg-accent": {
-              "value": "{color.global.teal.teal100}",
-              "type": "color",
-              "description": "Use as a subtle background of active elements. Normaly, it is accompained by a harder accent shade in icons or text."
+              "$type": "color",
+              "$value": "{color.global.teal.teal100}",
+              "$description": "Use as a subtle background of active elements. Normaly, it is accompained by a harder accent shade in icons or text."
             },
             "bg-neutral-inverted": {
-              "value": "{color.global.neutral.neutral700}",
-              "type": "color",
-              "description": "Use for active elements thant don't use accent color. For example checkbox when solutions are not active or tooltips."
+              "$type": "color",
+              "$value": "{color.global.neutral.neutral700}",
+              "$description": "Use for active elements thant don't use accent color. For example checkbox when solutions are not active or tooltips."
             },
             "bg-neutral-inverted-subtle": {
-              "value": "{color.global.neutral.neutral400}",
-              "type": "color",
-              "description": "Use as a inverted background for small elements that don't use surface tokens."
+              "$type": "color",
+              "$value": "{color.global.neutral.neutral400}",
+              "$description": "Use as a inverted background for small elements that don't use surface tokens."
             },
             "bg-neutral-subtle": {
-              "value": "{color.global.neutral.neutral100}",
-              "type": "color",
-              "description": "Use as a background for small elements that don't use surface tokens. For example the secondary button background."
+              "$type": "color",
+              "$value": "{color.global.neutral.neutral100}",
+              "$description": "Use as a background for small elements that don't use surface tokens. For example the secondary button background."
             },
             "bg-disabled": {
-              "value": "rgba(0,0,0,0.05)",
-              "type": "color",
-              "description": "Use for background of disabled elements."
+              "$type": "color",
+              "$value": "rgba(0,0,0,0.05)",
+              "$description": "Use for background of disabled elements."
             },
             "bg-error": {
-              "value": "{color.global.red.red100}",
-              "type": "color",
-              "description": "Semantic. Use for background of error elements."
+              "$type": "color",
+              "$value": "{color.global.red.red100}",
+              "$description": "Semantic. Use for background of error elements."
             },
             "bg-success": {
-              "value": "{color.global.green.green100}",
-              "type": "color",
-              "description": "Semantic. Use for background of success elements."
+              "$type": "color",
+              "$value": "{color.global.green.green100}",
+              "$description": "Semantic. Use for background of success elements."
             },
             "bg-warning": {
-              "value": "{color.global.orange.orange100}",
-              "type": "color",
-              "description": "Semantic. Use for background of warning elements."
+              "$type": "color",
+              "$value": "{color.global.orange.orange100}",
+              "$description": "Semantic. Use for background of warning elements."
             },
             "bg-info": {
-              "value": "{color.global.blue.blue100}",
-              "type": "color",
-              "description": "Semantic. Use for background of info elements."
+              "$type": "color",
+              "$value": "{color.global.blue.blue100}",
+              "$description": "Semantic. Use for background of info elements."
             },
             "bg-imported": {
-              "value": "{color.global.teal.teal100}",
-              "type": "color",
-              "description": "Semantic. Use for background of imported elements. - Not in use"
+              "$type": "color",
+              "$value": "{color.global.teal.teal100}",
+              "$description": "Semantic. Use for background of imported elements. - Not in use"
             }
           },
           "icon": {
             "icon-accent": {
-              "value": "{color.global.teal.teal700}",
-              "type": "color",
-              "description": "Use in icons in active elements. Normaly accompained by bg-accent."
+              "$type": "color",
+              "$value": "{color.global.teal.teal700}",
+              "$description": "Use in icons in active elements. Normaly accompained by bg-accent."
             },
             "icon-default": {
-              "value": "{color.global.neutral.neutral500}",
-              "type": "color",
-              "description": "Use as default color for the incons."
+              "$type": "color",
+              "$value": "{color.global.neutral.neutral500}",
+              "$description": "Use as default color for the incons."
             },
             "icon-disabled": {
-              "value": "rgba(0,0,0,0.15)",
-              "type": "color",
-              "description": "Use for icons in disabled elements"
+              "$type": "color",
+              "$value": "rgba(0,0,0,0.15)",
+              "$description": "Use for icons in disabled elements"
             },
             "icon-inverted": {
-              "value": "{color.global.white}",
-              "type": "color",
-              "description": "Use for icons on inverted backgrounds such as bg-accent-inverted or bg-inverted."
+              "$type": "color",
+              "$value": "{color.global.white}",
+              "$description": "Use for icons on inverted backgrounds such as bg-accent-inverted or bg-inverted."
             },
             "icon-error": {
-              "value": "{color.global.red.red500}",
-              "type": "color",
-              "description": "Semantic. Use for icons on error elements."
+              "$type": "color",
+              "$value": "{color.global.red.red500}",
+              "$description": "Semantic. Use for icons on error elements."
             },
             "icon-success": {
-              "value": "{color.global.green.green700}",
-              "type": "color",
-              "description": "Semantic. Use for icons on success elements."
+              "$type": "color",
+              "$value": "{color.global.green.green700}",
+              "$description": "Semantic. Use for icons on success elements."
             },
             "icon-warning": {
-              "value": "{color.global.orange.orange500}",
-              "type": "color",
-              "description": "Semantic. Use for icons on warning elements."
+              "$type": "color",
+              "$value": "{color.global.orange.orange500}",
+              "$description": "Semantic. Use for icons on warning elements."
             },
             "icon-info": {
-              "value": "{color.global.blue.blue700}",
-              "type": "color",
-              "description": "Semantic. Use for icons on info elements."
+              "$type": "color",
+              "$value": "{color.global.blue.blue700}",
+              "$description": "Semantic. Use for icons on info elements."
             },
             "icon-imported": {
-              "value": "{color.global.teal.teal700}",
-              "type": "color",
-              "description": "Semantic. Use for icons on imported elements."
+              "$type": "color",
+              "$value": "{color.global.teal.teal700}",
+              "$description": "Semantic. Use for icons on imported elements."
             }
           },
           "border": {
             "border-accent": {
-              "value": "{color.global.teal.teal500}",
-              "type": "color",
-              "description": "Use for border of accent or selected elements."
+              "$type": "color",
+              "$value": "{color.global.teal.teal500}",
+              "$description": "Use for border of accent or selected elements."
             },
             "border-default": {
-              "value": "{color.global.neutral.neutral400}",
-              "type": "color",
-              "description": "Use for small components such as toggle switch were the subtle token is not enough."
+              "$type": "color",
+              "$value": "{color.global.neutral.neutral400}",
+              "$description": "Use for small components such as toggle switch were the subtle token is not enough."
             },
             "border-subtle": {
-              "value": "{color.global.neutral.neutral200}",
-              "type": "color",
-              "description": "Used as divider aswells as default border for most element. Old divider token."
+              "$type": "color",
+              "$value": "{color.global.neutral.neutral200}",
+              "$description": "Used as divider aswells as default border for most element. Old divider token."
             },
             "border-disabled": {
-              "value": "rgba(0,0,0,0.15)",
-              "type": "color",
-              "description": "Use for disabled elements border."
+              "$type": "color",
+              "$value": "rgba(0,0,0,0.15)",
+              "$description": "Use for disabled elements border."
             },
             "border-inverted": {
-              "value": "{color.global.neutral.neutral700}",
-              "type": "color",
-              "description": "Use for inverted elements border."
+              "$type": "color",
+              "$value": "{color.global.neutral.neutral700}",
+              "$description": "Use for inverted elements border."
             }
           },
           "text": {
             "text-accent": {
-              "value": "{color.global.teal.teal700}",
-              "type": "color",
-              "description": "Use for text in accent elements. Normaly accompained by the bg-accent."
+              "$type": "color",
+              "$value": "{color.global.teal.teal700}",
+              "$description": "Use for text in accent elements. Normaly accompained by the bg-accent."
             },
             "text": {
-              "value": "{color.global.neutral.neutral700}",
-              "type": "color",
-              "description": "Default token for text."
+              "$type": "color",
+              "$value": "{color.global.neutral.neutral700}",
+              "$description": "Default token for text."
             },
             "text-subtle": {
-              "value": "{color.global.neutral.neutral500}",
-              "type": "color",
-              "description": "Use for text with less hierarchy than text token."
+              "$type": "color",
+              "$value": "{color.global.neutral.neutral500}",
+              "$description": "Use for text with less hierarchy than text token."
             },
             "text-disabled": {
-              "value": "rgba(0,0,0,0.15)",
-              "type": "color",
-              "description": "Use for disabled text."
+              "$type": "color",
+              "$value": "rgba(0,0,0,0.15)",
+              "$description": "Use for disabled text."
             },
             "text-inverted": {
-              "value": "{color.global.white}",
-              "type": "color",
-              "description": "Use for text on inverted background."
+              "$type": "color",
+              "$value": "{color.global.white}",
+              "$description": "Use for text on inverted background."
             },
             "text-error": {
-              "value": "{color.global.red.red500}",
-              "type": "color",
-              "description": "Semantic. Use for text on error elements."
+              "$type": "color",
+              "$value": "{color.global.red.red500}",
+              "$description": "Semantic. Use for text on error elements."
             },
             "text-info": {
-              "value": "{color.global.blue.blue700}",
-              "type": "color",
-              "description": "Semantic. Use for icons on info elements."
+              "$type": "color",
+              "$value": "{color.global.blue.blue700}",
+              "$description": "Semantic. Use for icons on info elements."
             },
             "text-warning": {
-              "value": "{color.global.orange.orange700}",
-              "type": "color",
-              "description": "Semantic. Use for icons on warning elements."
+              "$type": "color",
+              "$value": "{color.global.orange.orange700}",
+              "$description": "Semantic. Use for icons on warning elements."
             },
             "text-success": {
-              "value": "{color.global.green.green700}",
-              "type": "color",
-              "description": "Semantic. Use for icons on success elements."
+              "$type": "color",
+              "$value": "{color.global.green.green700}",
+              "$description": "Semantic. Use for icons on success elements."
             }
           },
           "surface": {
             "surface-primary": {
-              "value": "{color.global.white}",
-              "type": "color",
-              "description": "Use for neutral large surfaces."
+              "$type": "color",
+              "$value": "{color.global.white}",
+              "$description": "Use for neutral large surfaces."
             },
             "surface-secondary": {
-              "value": "{color.global.neutral.neutral100}",
-              "type": "color",
-              "description": "Use for secondary large surfaces such as material container or class container."
+              "$type": "color",
+              "$value": "{color.global.neutral.neutral100}",
+              "$description": "Use for secondary large surfaces such as material container or class container."
             }
           }
         }
@@ -784,159 +784,159 @@
         "cm": {
           "bg": {
             "bg-accent-inverted": {
-              "value": "{color.global.teal.teal500}",
-              "type": "color"
+              "$type": "color",
+              "$value": "{color.global.teal.teal500}"
             },
             "bg-accent": {
-              "value": "{color.global.teal.teal100}",
-              "type": "color"
+              "$type": "color",
+              "$value": "{color.global.teal.teal100}"
             },
             "bg-neutral-inverted": {
-              "value": "{color.global.neutral.neutral700}",
-              "type": "color"
+              "$type": "color",
+              "$value": "{color.global.neutral.neutral700}"
             },
             "bg-neutral-inverted-subtle": {
-              "value": "{color.global.neutral.neutral400}",
-              "type": "color"
+              "$type": "color",
+              "$value": "{color.global.neutral.neutral400}"
             },
             "bg-neutral-subtle": {
-              "value": "{color.global.neutral.neutral100}",
-              "type": "color"
+              "$type": "color",
+              "$value": "{color.global.neutral.neutral100}"
             },
             "bg-disabled": {
-              "value": "rgba(0,0,0,0.05)",
-              "type": "color"
+              "$type": "color",
+              "$value": "rgba(0,0,0,0.05)"
             },
             "bg-error": {
-              "value": "{color.global.red.red100}",
-              "type": "color",
-              "description": "Semantic"
+              "$type": "color",
+              "$value": "{color.global.red.red100}",
+              "$description": "Semantic"
             },
             "bg-success": {
-              "value": "{color.global.green.green100}",
-              "type": "color",
-              "description": "Semantic"
+              "$type": "color",
+              "$value": "{color.global.green.green100}",
+              "$description": "Semantic"
             },
             "bg-warning": {
-              "value": "{color.global.orange.orange100}",
-              "type": "color",
-              "description": "Semantic"
+              "$type": "color",
+              "$value": "{color.global.orange.orange100}",
+              "$description": "Semantic"
             },
             "bg-info": {
-              "value": "{color.global.blue.blue100}",
-              "type": "color",
-              "description": "Semantic"
+              "$type": "color",
+              "$value": "{color.global.blue.blue100}",
+              "$description": "Semantic"
             },
             "bg-imported": {
-              "value": "{color.global.teal.teal100}",
-              "type": "color",
-              "description": "Semantic"
+              "$type": "color",
+              "$value": "{color.global.teal.teal100}",
+              "$description": "Semantic"
             }
           },
           "icon": {
             "icon-accent": {
-              "value": "{color.global.teal.teal700}",
-              "type": "color"
+              "$type": "color",
+              "$value": "{color.global.teal.teal700}"
             },
             "icon-default": {
-              "value": "{color.global.white}",
-              "type": "color"
+              "$type": "color",
+              "$value": "{color.global.white}"
             },
             "icon-disabled": {
-              "value": "rgba(0,0,0,0.15)",
-              "type": "color"
+              "$type": "color",
+              "$value": "rgba(0,0,0,0.15)"
             },
             "icon-inverted": {
-              "value": "{color.global.white}",
-              "type": "color"
+              "$type": "color",
+              "$value": "{color.global.white}"
             },
             "icon-error": {
-              "value": "{color.global.red.red500}",
-              "type": "color",
-              "description": "Semantic"
+              "$type": "color",
+              "$value": "{color.global.red.red500}",
+              "$description": "Semantic"
             },
             "icon-success": {
-              "value": "{color.global.green.green700}",
-              "type": "color",
-              "description": "Semantic"
+              "$type": "color",
+              "$value": "{color.global.green.green700}",
+              "$description": "Semantic"
             },
             "icon-warning": {
-              "value": "{color.global.orange.orange500}",
-              "type": "color",
-              "description": "Semantic"
+              "$type": "color",
+              "$value": "{color.global.orange.orange500}",
+              "$description": "Semantic"
             },
             "icon-info": {
-              "value": "{color.global.blue.blue700}",
-              "type": "color",
-              "description": "Semantic"
+              "$type": "color",
+              "$value": "{color.global.blue.blue700}",
+              "$description": "Semantic"
             },
             "icon-imported": {
-              "value": "{color.global.teal.teal700}",
-              "type": "color",
-              "description": "Semantic"
+              "$type": "color",
+              "$value": "{color.global.teal.teal700}",
+              "$description": "Semantic"
             }
           },
           "border": {
             "border-accent": {
-              "value": "{color.global.teal.teal500}",
-              "type": "color"
+              "$type": "color",
+              "$value": "{color.global.teal.teal500}"
             },
             "border-default": {
-              "value": "{color.global.neutral.neutral400}",
-              "type": "color"
+              "$type": "color",
+              "$value": "{color.global.neutral.neutral400}"
             },
             "border-subtle": {
-              "value": "{color.global.neutral.neutral400}",
-              "type": "color",
-              "description": "Old Divider"
+              "$type": "color",
+              "$value": "{color.global.neutral.neutral400}",
+              "$description": "Old Divider"
             },
             "border-disabled": {
-              "value": "rgba(0,0,0,0.15)",
-              "type": "color"
+              "$type": "color",
+              "$value": "rgba(0,0,0,0.15)"
             },
             "border-inverted": {
-              "value": "{color.global.neutral.neutral700}",
-              "type": "color"
+              "$type": "color",
+              "$value": "{color.global.neutral.neutral700}"
             }
           },
           "text": {
             "text-accent": {
-              "value": "{color.global.teal.teal700}",
-              "type": "color"
+              "$type": "color",
+              "$value": "{color.global.teal.teal700}"
             },
             "text": {
-              "value": "{color.alias.cm.text.text-inverted}",
-              "type": "color"
+              "$type": "color",
+              "$value": "{color.alias.cm.text.text-inverted}"
             },
             "text-subtle": {
-              "value": "{color.global.neutral.neutral200}",
-              "type": "color"
+              "$type": "color",
+              "$value": "{color.global.neutral.neutral200}"
             },
             "text-disabled": {
-              "value": "rgba(0,0,0,0.15)",
-              "type": "color"
+              "$type": "color",
+              "$value": "rgba(0,0,0,0.15)"
             },
             "text-inverted": {
-              "value": "{color.global.white}",
-              "type": "color"
+              "$type": "color",
+              "$value": "{color.global.white}"
             },
             "text-error": {
-              "value": "{color.global.red.red500}",
-              "type": "color"
+              "$type": "color",
+              "$value": "{color.global.red.red500}"
             },
             "text-info": {
-              "value": "{color.global.blue.blue700}",
-              "type": "color"
+              "$type": "color",
+              "$value": "{color.global.blue.blue700}"
             }
           },
           "surface": {
             "surface-primary": {
-              "value": "{color.global.neutral.neutral700}",
-              "type": "color"
+              "$type": "color",
+              "$value": "{color.global.neutral.neutral700}"
             },
             "surface-secondary": {
-              "value": "{color.global.neutral.neutral500}",
-              "type": "color"
+              "$type": "color",
+              "$value": "{color.global.neutral.neutral500}"
             }
           }
         }
@@ -948,265 +948,265 @@
       "specific": {
         "element": {
           "link": {
-            "value": "{color.global.teal.teal500}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{color.global.teal.teal500}"
           },
           "link-hovered": {
-            "value": "{color.global.teal.teal700}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{color.global.teal.teal700}"
           },
           "overlay": {
-            "value": "rgba(51,51,51,0.7)",
-            "type": "color",
-            "description": "Use for overlay backgrounds. For example in popups or drawers."
+            "$type": "color",
+            "$value": "rgba(51,51,51,0.7)",
+            "$description": "Use for overlay backgrounds. For example in popups or drawers."
           },
           "thumnail-locked": {
-            "value": "rgba(51,51,51,0.25)",
-            "type": "color",
-            "description": "Use for non active resources. Example: Activities that not added to the weekly practice."
+            "$type": "color",
+            "$value": "rgba(51,51,51,0.25)",
+            "$description": "Use for non active resources. Example: Activities that not added to the weekly practice."
           },
           "thumbnail-tag": {
-            "value": "rgba(51,51,51,0.7)",
-            "type": "color",
-            "description": "Use for elements on a thumnail."
+            "$type": "color",
+            "$value": "rgba(51,51,51,0.7)",
+            "$description": "Use for elements on a thumnail."
           },
           "owner-background": {
-            "value": "{color.global.neutral.neutral700}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{color.global.neutral.neutral700}"
           },
           "thumbnail-placeholder": {
-            "value": "{color.global.neutral.neutral100}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{color.global.neutral.neutral100}"
           },
           "new": {
-            "value": "{color.global.red.red500}",
-            "type": "color",
-            "description": "Use for the new tag."
+            "$type": "color",
+            "$value": "{color.global.red.red500}",
+            "$description": "Use for the new tag."
           },
           "score-star": {
-            "value": "{color.global.yellow.yellow500}",
-            "type": "color",
-            "description": "Use for the feedback color in the stars"
+            "$type": "color",
+            "$value": "{color.global.yellow.yellow500}",
+            "$description": "Use for the feedback color in the stars"
           },
           "video-bar": {
-            "value": "{color.global.orange.orange500}",
-            "type": "color",
-            "description": "Use to show the progress of a video thumbnail."
+            "$type": "color",
+            "$value": "{color.global.orange.orange500}",
+            "$description": "Use to show the progress of a video thumbnail."
           },
           "skeleton": {
-            "value": "{color.global.neutral.neutral100}",
-            "type": "color",
-            "description": "Use for the skeletons in the classroom manager."
+            "$type": "color",
+            "$value": "{color.global.neutral.neutral100}",
+            "$description": "Use for the skeletons in the classroom manager."
           }
         },
         "smart-guides": {
           "communication-background": {
-            "value": "$color.global.purple.purple200",
-            "type": "color"
+            "$type": "color",
+            "$value": "$color.global.purple.purple200"
           },
           "communication-element": {
-            "value": "{color.global.purple.purple700}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{color.global.purple.purple700}"
           },
           "problem-background": {
-            "value": "$color.global.green.green200",
-            "type": "color"
+            "$type": "color",
+            "$value": "$color.global.green.green200"
           },
           "problem-element": {
-            "value": "$color.global.green.green700",
-            "type": "color"
+            "$type": "color",
+            "$value": "$color.global.green.green700"
           },
           "reasoning-background": {
-            "value": "$color.global.blue.blue200",
-            "type": "color"
+            "$type": "color",
+            "$value": "$color.global.blue.blue200"
           },
           "reasoning-element": {
-            "value": "$color.global.blue.blue700",
-            "type": "color"
+            "$type": "color",
+            "$value": "$color.global.blue.blue700"
           },
           "connections-background": {
-            "value": "$color.global.orange.orange200",
-            "type": "color"
+            "$type": "color",
+            "$value": "$color.global.orange.orange200"
           },
           "connections-element": {
-            "value": "$color.global.orange.orange700",
-            "type": "color"
+            "$type": "color",
+            "$value": "$color.global.orange.orange700"
           },
           "part1-background": {
-            "value": "$color.global.purple.purple100",
-            "type": "color"
+            "$type": "color",
+            "$value": "$color.global.purple.purple100"
           },
           "part1-medium": {
-            "value": "$color.global.purple.purple300",
-            "type": "color"
+            "$type": "color",
+            "$value": "$color.global.purple.purple300"
           },
           "part1-element": {
-            "value": "$color.global.purple.purple700",
-            "type": "color"
+            "$type": "color",
+            "$value": "$color.global.purple.purple700"
           },
           "part2-background": {
-            "value": "$color.global.yellow.yellow100",
-            "type": "color"
+            "$type": "color",
+            "$value": "$color.global.yellow.yellow100"
           },
           "part2-medium": {
-            "value": "$color.global.yellow.yellow300",
-            "type": "color"
+            "$type": "color",
+            "$value": "$color.global.yellow.yellow300"
           },
           "part2-element": {
-            "value": "$color.global.yellow.yellow700",
-            "type": "color"
+            "$type": "color",
+            "$value": "$color.global.yellow.yellow700"
           },
           "part3-background": {
-            "value": "$color.global.blue.blue100",
-            "type": "color"
+            "$type": "color",
+            "$value": "$color.global.blue.blue100"
           },
           "part3-medium": {
-            "value": "$color.global.blue.blue300",
-            "type": "color"
+            "$type": "color",
+            "$value": "$color.global.blue.blue300"
           },
           "part3-element": {
-            "value": "$color.global.blue.blue700",
-            "type": "color"
+            "$type": "color",
+            "$value": "$color.global.blue.blue700"
           },
           "part0-background": {
-            "value": "$color.global.teal.teal100",
-            "type": "color"
+            "$type": "color",
+            "$value": "$color.global.teal.teal100"
           },
           "part0-medium": {
-            "value": "$color.global.teal.teal300",
-            "type": "color"
+            "$type": "color",
+            "$value": "$color.global.teal.teal300"
           },
           "part0-element": {
-            "value": "$color.global.teal.teal700",
-            "type": "color"
+            "$type": "color",
+            "$value": "$color.global.teal.teal700"
           },
           "images-hover": {
-            "value": "rgba(0,0,0,0.2)",
-            "type": "color"
+            "$type": "color",
+            "$value": "rgba(0,0,0,0.2)"
           }
         },
         "state-layer": {
           "state-hover-darker": {
-            "value": "rgba(0,0,0,5%)",
-            "type": "color"
+            "$type": "color",
+            "$value": "rgba(0,0,0,5%)"
           },
           "state-press-darker": {
-            "value": "rgba(0,0,0,10%)",
-            "type": "color"
+            "$type": "color",
+            "$value": "rgba(0,0,0,10%)"
           },
           "state-hover-lighter": {
-            "value": "rgba(255,255,255,20%)",
-            "type": "color"
+            "$type": "color",
+            "$value": "rgba(255,255,255,20%)"
           },
           "state-press-lighter": {
-            "value": "rgba(255,255,255,30%)",
-            "type": "color"
+            "$type": "color",
+            "$value": "rgba(255,255,255,30%)"
           }
         },
         "reports": {
           "tables": {
             "divider-primary": {
-              "value": "{color.global.neutral.neutral700}",
-              "type": "color"
+              "$type": "color",
+              "$value": "{color.global.neutral.neutral700}"
             },
             "divider-secondary": {
-              "value": "{color.global.neutral.neutral200}",
-              "type": "color"
+              "$type": "color",
+              "$value": "{color.global.neutral.neutral200}"
             },
             "background-highlight": {
-              "value": "{color.global.neutral.neutral100}",
-              "type": "color"
+              "$type": "color",
+              "$value": "{color.global.neutral.neutral100}"
             },
             "cell": {
               "bg-empty": {
-                "value": "{color.global.neutral.neutral100}",
-                "type": "color"
+                "$type": "color",
+                "$value": "{color.global.neutral.neutral100}"
               }
             }
           },
           "semantic": {
             "no-data": {
-              "value": "{color.global.neutral.neutral300}",
-              "type": "color"
+              "$type": "color",
+              "$value": "{color.global.neutral.neutral300}"
             },
             "low": {
-              "value": "{color.global.red.red500}",
-              "type": "color"
+              "$type": "color",
+              "$value": "{color.global.red.red500}"
             },
             "medium": {
-              "value": "{color.global.orange.orange500}",
-              "type": "color"
+              "$type": "color",
+              "$value": "{color.global.orange.orange500}"
             },
             "high": {
-              "value": "{color.global.green.green500}",
-              "type": "color"
+              "$type": "color",
+              "$value": "{color.global.green.green500}"
             },
             "super-high": {
-              "value": "{color.global.green.green700}",
-              "type": "color"
+              "$type": "color",
+              "$value": "{color.global.green.green700}"
             }
           },
           "progress-bar": {
             "low": {
-              "value": "{color.global.red.red500}",
-              "type": "color"
+              "$type": "color",
+              "$value": "{color.global.red.red500}"
             },
             "completed": {
-              "value": "{color.global.neutral.neutral700}",
-              "type": "color"
+              "$type": "color",
+              "$value": "{color.global.neutral.neutral700}"
             },
             "empty": {
-              "value": "{color.global.neutral.neutral200}",
-              "type": "color"
+              "$type": "color",
+              "$value": "{color.global.neutral.neutral200}"
             },
             "home": {
-              "value": "{color.global.neutral.neutral400}",
-              "type": "color"
+              "$type": "color",
+              "$value": "{color.global.neutral.neutral400}"
             },
             "school": {
-              "value": "{color.global.neutral.neutral700}",
-              "type": "color"
+              "$type": "color",
+              "$value": "{color.global.neutral.neutral700}"
             }
           }
         },
         "stage": {
           "early-years": {
-            "value": "{color.global.purple.purple500}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{color.global.purple.purple500}"
           },
           "primary": {
-            "value": "{color.global.yellow.yellow500}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{color.global.yellow.yellow500}"
           },
           "secondary": {
-            "value": "{color.global.blue.blue500}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{color.global.blue.blue500}"
           }
         }
       }
     },
     "elevation": {
       "elevation 2": {
-        "value": {
+        "$type": "boxShadow",
+        "$value": {
           "x": "0",
           "y": "2",
           "blur": "4",
           "spread": "0",
           "color": "rgba(0, 0, 0, 0.24)",
           "type": "dropShadow"
-        },
-        "type": "boxShadow"
+        }
       },
       "elevation 4": {
-        "value": {
+        "$type": "boxShadow",
+        "$value": {
           "x": "0",
           "y": "4",
           "blur": "8",
           "spread": "0",
           "color": "rgba(0, 0, 0, 0.24)",
           "type": "dropShadow"
-        },
-        "type": "boxShadow"
+        }
       }
     }
   },
