@@ -1036,6 +1036,10 @@
             "value": "$color.global.red.red700",
             "type": "color"
           },
+          "connections-element": {
+            "value": "$color.global.orange.orange700",
+            "type": "color"
+          },
           "part1-background": {
             "value": "$color.global.purple.purple100",
             "type": "color"
