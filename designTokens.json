@@ -1076,6 +1076,10 @@
             "value": "$color.global.blue.blue700",
             "type": "color"
           },
+          "part4-element": {
+            "value": "$color.global.green.green700",
+            "type": "color"
+          },
           "part0-background": {
             "value": "$color.global.teal.teal100",
             "type": "color"
@@ -1086,6 +1090,14 @@
           },
           "part0-element": {
             "value": "$color.global.teal.teal700",
+            "type": "color"
+          },
+          "part4-background": {
+            "value": "$color.global.green.green100",
+            "type": "color"
+          },
+          "part4-medium": {
+            "value": "$color.global.green.green300",
             "type": "color"
           },
           "images-hover": {
