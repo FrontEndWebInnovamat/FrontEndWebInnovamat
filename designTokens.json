@@ -658,7 +658,7 @@
               "description": "Use for icons in disabled elements"
             },
             "icon-placeholder": {
-              "value": "rgba(0,0,0,0.25)",
+              "value": "rgba(0,0,0,0.35)",
               "type": "color",
               "description": "Use for icons in disabled elements"
             },
@@ -742,7 +742,7 @@
               "description": "Use for disabled text."
             },
             "text-placeholder": {
-              "value": "rgba(0,0,0,0.25)",
+              "value": "rgba(0,0,0,0.35)",
               "type": "color",
               "description": "Use for disabled text."
             },
