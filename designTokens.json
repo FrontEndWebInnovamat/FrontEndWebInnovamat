@@ -1211,6 +1211,10 @@
           "secondary": {
             "value": "{color.global.blue.blue500}",
             "type": "color"
+          },
+          "highschool": {
+            "value": "{color.global.green.green500}",
+            "type": "color"
           }
         }
       }
