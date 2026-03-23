@@ -50,7 +50,7 @@
             "type": "color"
           },
           "red500": {
-            "value": "#FF5233",
+            "value": "#FA5538",
             "type": "color"
           },
           "red700": {
@@ -112,27 +112,27 @@
         },
         "green": {
           "green100": {
-            "value": "#F0FAEB",
+            "value": "#F0F9EB",
             "type": "color"
           },
           "green200": {
-            "value": "#E0F5D6",
+            "value": "#E1F4D7",
             "type": "color"
           },
           "green300": {
-            "value": "#C2EBAD",
+            "value": "#C3E8B0",
             "type": "color"
           },
           "green400": {
-            "value": "#A3E084",
+            "value": "#A4DC88",
             "type": "color"
           },
           "green500": {
-            "value": "#84D65C",
+            "value": "#86D161",
             "type": "color"
           },
           "green700": {
-            "value": "#51A329",
+            "value": "#539E2E",
             "type": "color"
           }
         },
