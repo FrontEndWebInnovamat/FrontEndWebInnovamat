@@ -1261,18 +1261,22 @@
         },
         "stage": {
           "early-years": {
-            "value": "{color.global.purple.purple500}",
-            "type": "color"
-          },
-          "primary": {
             "value": "{color.global.yellow.yellow500}",
             "type": "color"
           },
+          "primary": {
+            "value": "{color.global.btc.btc500}",
+            "type": "color"
+          },
           "secondary": {
-            "value": "{color.global.blue.blue500}",
+            "value": "{color.global.magenta.magenta500}",
             "type": "color"
           },
           "highschool": {
+            "value": "{color.global.purple.purple500}",
+            "type": "color"
+          },
+          "journeys": {
             "value": "{color.global.green.green500}",
             "type": "color"
           }
