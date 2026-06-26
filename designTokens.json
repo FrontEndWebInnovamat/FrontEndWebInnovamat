@@ -1158,6 +1158,30 @@
             "value": "$color.global.navy.navy700",
             "type": "color"
           },
+          "btc-background": {
+            "value": "$color.global.btc.btc100",
+            "type": "color"
+          },
+          "btc-medium": {
+            "value": "$color.global.btc.btc300",
+            "type": "color"
+          },
+          "btc-element": {
+            "value": "$color.global.btc.btc500",
+            "type": "color"
+          },
+          "journeys-part0-background": {
+            "value": "$color.global.neutral.neutral100",
+            "type": "color"
+          },
+          "journeys-part0-medium": {
+            "value": "$color.global.neutral.neutral200",
+            "type": "color"
+          },
+          "journeys-part0-element": {
+            "value": "$color.global.neutral.neutral500",
+            "type": "color"
+          },
           "part4-element": {
             "value": "$color.global.green.green700",
             "type": "color"
