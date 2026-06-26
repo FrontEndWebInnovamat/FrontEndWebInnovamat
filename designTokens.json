@@ -1146,6 +1146,18 @@
             "value": "$color.global.blue.blue700",
             "type": "color"
           },
+          "journeys-background": {
+            "value": "$color.global.navy.navy100",
+            "type": "color"
+          },
+          "journeys-medium": {
+            "value": "$color.global.navy.navy300",
+            "type": "color"
+          },
+          "journeys-element": {
+            "value": "$color.global.navy.navy700",
+            "type": "color"
+          },
           "part4-element": {
             "value": "$color.global.green.green700",
             "type": "color"
