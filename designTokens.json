@@ -56,6 +56,14 @@
           "red700": {
             "value": "#cc1f00",
             "type": "color"
+          },
+          "red900": {
+            "value": "#661000",
+            "type": "color"
+          },
+          "red1000": {
+            "value": "#330800",
+            "type": "color"
           }
         },
         "orange": {
@@ -81,6 +89,14 @@
           },
           "orange700": {
             "value": "#cc6600",
+            "type": "color"
+          },
+          "orange900": {
+            "value": "#663300",
+            "type": "color"
+          },
+          "orange1000": {
+            "value": "#331a00",
             "type": "color"
           }
         },
@@ -108,6 +124,14 @@
           "yellow700": {
             "value": "#cc8d00",
             "type": "color"
+          },
+          "yellow900": {
+            "value": "#664600",
+            "type": "color"
+          },
+          "yellow1000": {
+            "value": "#332300",
+            "type": "color"
           }
         },
         "green": {
@@ -133,6 +157,14 @@
           },
           "green700": {
             "value": "#539e2e",
+            "type": "color"
+          },
+          "green900": {
+            "value": "#294f17",
+            "type": "color"
+          },
+          "green1000": {
+            "value": "#15280b",
             "type": "color"
           }
         },
@@ -160,6 +192,14 @@
           "blue700": {
             "value": "#2392ab",
             "type": "color"
+          },
+          "blue900": {
+            "value": "#114855",
+            "type": "color"
+          },
+          "blue1000": {
+            "value": "#09242a",
+            "type": "color"
           }
         },
         "purple": {
@@ -185,6 +225,14 @@
           },
           "purple700": {
             "value": "#8b4185",
+            "type": "color"
+          },
+          "purple900": {
+            "value": "#452142",
+            "type": "color"
+          },
+          "purple1000": {
+            "value": "#231021",
             "type": "color"
           }
         },
@@ -212,6 +260,14 @@
           "magenta700": {
             "value": "#b8144b",
             "type": "color"
+          },
+          "magenta900": {
+            "value": "#5c0a25",
+            "type": "color"
+          },
+          "magenta1000": {
+            "value": "#2e0513",
+            "type": "color"
           }
         },
         "teal": {
@@ -237,6 +293,14 @@
           },
           "teal700": {
             "value": "#10756e",
+            "type": "color"
+          },
+          "teal900": {
+            "value": "#0a4843",
+            "type": "color"
+          },
+          "teal1000": {
+            "value": "#062d2a",
             "type": "color"
           }
         },
@@ -264,6 +328,14 @@
           "navy700": {
             "value": "#2365ab",
             "type": "color"
+          },
+          "navy900": {
+            "value": "#113255",
+            "type": "color"
+          },
+          "navy1000": {
+            "value": "#09192a",
+            "type": "color"
           }
         },
         "btc": {
@@ -290,6 +362,31 @@
           "btc700": {
             "value": "#c0370c",
             "type": "color"
+          },
+          "btc900": {
+            "value": "#601b06",
+            "type": "color"
+          },
+          "btc1000": {
+            "value": "#300e03",
+            "type": "color"
+          }
+        }
+      },
+      "alias": {
+        "cm": {
+          "bg": {
+            "bg-highlight": {
+              "value": "#f7eef6",
+              "type": "color"
+            }
+          },
+          "text": {
+            "text-highlight": {
+              "value": "#8b4185",
+              "type": "color",
+              "description": "Semantic. Use for icons on success elements."
+            }
           }
         }
       }
@@ -1314,6 +1411,56 @@
           },
           "journeys": {
             "value": "{color.global.green.green500}",
+            "type": "color"
+          }
+        },
+        "math-journey": {
+          "a-counting-background": {
+            "value": "{color.global.green.green200}",
+            "type": "color"
+          },
+          "a-counting-element": {
+            "value": "{color.global.green.green700}",
+            "type": "color"
+          },
+          "b-additive-background": {
+            "value": "{color.global.teal.teal200}",
+            "type": "color"
+          },
+          "b-additive-element": {
+            "value": "{color.global.teal.teal700}",
+            "type": "color"
+          },
+          "c-multiplicative-background": {
+            "value": "{color.global.blue.blue200}",
+            "type": "color"
+          },
+          "c-multiplicative-element": {
+            "value": "{color.global.blue.blue700}",
+            "type": "color"
+          },
+          "d-rational-background": {
+            "value": "{color.global.navy.navy200}",
+            "type": "color"
+          },
+          "d-rational-element": {
+            "value": "{color.global.navy.navy700}",
+            "type": "color"
+          },
+          "e-powers-background": {
+            "value": "{color.global.purple.purple200}",
+            "type": "color"
+          },
+          "e-powers-element": {
+            "value": "{color.global.purple.purple700}",
+            "type": "color"
+          },
+          "f-expressions-background": {
+            "value": "{color.global.magenta.magenta200}",
+            "type": "color"
+          },
+          "f-expressions-element": {
+            "value": "{color.global.magenta.magenta700}",
             "type": "color"
           }
         }
