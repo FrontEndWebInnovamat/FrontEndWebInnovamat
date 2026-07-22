@@ -503,6 +503,17 @@
           },
           "type": "typography"
         },
+        "Tag": {
+          "value": {
+            "fontFamily": "{ManagerFont}",
+            "fontWeight": "700",
+            "textCase": "uppercase",
+            "letterSpacing": "1px",
+            "lineHeight": "0,75rem",
+            "fontSize": "0.5rem"
+          },
+          "type": "typography"
+        },
         "link 1": {
           "value": {
             "fontFamily": "$ManagerFont",
